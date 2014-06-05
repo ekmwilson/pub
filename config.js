@@ -14,7 +14,7 @@
 		"omnitureOfflineHitLimit" : 1000,
 		"demdexEnabled" : "true",
 		"TVEEnabled" : "true",
-		"omnitureContextData" : {"v.dummyContext1":"1","v.dummyContext2":"2", "v.nick.gameName":"3"},
+		"omnitureContextData" : {"v.dummyContext1":"1","v.dummyContext2":"2", "gameName":"3"},
 		"omnitureTimetrackingEnabled" : "true"
 	}
 ]
