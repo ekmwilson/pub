@@ -4,7 +4,7 @@
 "doubleclickAdSize":"300x50",
 "doubleclickIsDfp":false,
 "doubleclickAdIndicatorVisible":false,
-"doubleclickAddBumper":true,
+"doubleclickUseBumper":true,
 "doubleclickDfpData":
 {
     "metadata": {
