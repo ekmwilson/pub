@@ -3,8 +3,6 @@
 "doubleclickKeyValues":"testmode=crisp_300x250_expandable",
 "doubleclickAdSize":"300x50",
 "doubleclickIsDfp":false,
-"doubleclickAdIndicatorVisible":true,
-"doubleclickUseBumper":true,
 "doubleclickDfpData":
 {
     "metadata": {
