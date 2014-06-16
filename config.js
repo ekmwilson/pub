@@ -14,7 +14,6 @@
 		"omnitureOfflineHitLimit" : 1000,
 		"demdexEnabled" : "true",
 		"TVEEnabled" : "true",
-		"omnitureContextData" : {"v.dummyContext1":"1","dummyContext2":"2"},
 		"omnitureTimetrackingEnabled" : "true"
 	}
 ]
