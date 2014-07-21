@@ -4,7 +4,7 @@
 		"omnitureSuite"   : "viarnd",
 		"omnitureChannel" : "Test Rig Channel",
 		"omnitureCharSet" : "ISO-8859-1-charset",
-		"omnitureCurrencyCode" : "BYR",
+		"omnitureCurrencyCode" : "",
 		"omnitureSSL" : "false",
 		"omnitureLifecycleSessionTimeout" : "300",
 		"omnitureTrackingServer" : "sc.mtv.com",
