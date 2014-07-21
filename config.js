@@ -14,6 +14,7 @@
 		"omnitureOfflineHitLimit" : 1000,
 		"demdexEnabled" : "true",
 		"TVEEnabled" : "true",
+		"eVar16"   : "value of var 16 data file",
 		"omnitureContextData" : {"v.dummyContext1":"1","dummyContext2":"2"},
 		"omnitureTimetrackingEnabled" : "true"
 	}
