@@ -12,7 +12,7 @@
         "omnitureDebugLogging" : "true",
         "omnitureOfflineTrackingEnabled" : "true",
         "omnitureOfflineHitLimit" : "200",
-        "demdexEnabled" : "true",
+        "audienceManagerEnabled" : "true",
         "TVEEnabled" : "true",
         "omnitureContextData" : {"v.dummyContext1":"Klim Test Data","v.dummyContext2":"Klim_test_data", "dummyContext12":"app12","nick.game": "app1"}
     } 
