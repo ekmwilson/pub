@@ -11,6 +11,6 @@
 		"omnitureVisitorID" : "",
 		"omnitureDebugLogging" : "true",
 		"demdexEnabled" : "true",
-		"TVEEnabled" : "false"
+		"TVEEnabled" : "true"
 	}
 ]
