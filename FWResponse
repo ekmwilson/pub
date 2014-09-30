@@ -60,20 +60,12 @@ tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
 		"state" : []
 	},
 	"errors" : {
-		"errors" : [
-			{
-				"id" : "1",
-				"severity" : "WARN",
-				"name" : "ASSET_NOT_FOUND",
-				"message" : "additional_restriction_assets",
-				"context" : "82125\/mgid:arc:playlist:nick.com:476bdc68-39fe-4f24-bdeb-43c57ca67396"
-			}
-		]
+		"errors" : []
 	},
 	"eventCallbacks" : {
 		"eventCallbacks" : [
 			{
-				"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=a110&n=82125%3B82125%3B174975&t=1412021167411032009",
+				"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=c119&n=82125%3B82125%3B174975&t=1412021346263208010",
 				"type" : "GENERIC",
 				"use" : "BASE",
 				"showBrowser" : false,
@@ -99,7 +91,7 @@ tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
 							{
 								"creativeRenditionId" : "1451509",
 								"wrapperType" : "external\/vast-2",
-								"wrapperUrl" : "http:\/\/pubads.g.doubleclick.net\/gampad\/ads?sz=640x480&iu=\/23171097\/TV_Nick.com_Web&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=http%3A\/\/media.mtvnservices.com\/mgid%3Aarc%3Aepisode%3Anick.com%3A5b242c12-2442-11e4-b48f-0026b9414f30&description_url=[description_url]&correlator=59060942",
+								"wrapperUrl" : "http:\/\/pubads.g.doubleclick.net\/gampad\/ads?sz=640x480&iu=\/23171097\/TV_Nick.com_Web&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=http%3A\/\/media.mtvnservices.com\/mgid%3Aarc%3Aepisode%3Anick.com%3A5b242c12-2442-11e4-b48f-0026b9414f30&description_url=[description_url]&correlator=167725805",
 								"creativeApi" : "None",
 								"preference" : "0",
 								"adReplicaId" : "0",
@@ -128,120 +120,120 @@ tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
 				"required" : false,
 				"creatives" : [
 					{
-						"creativeId" : "1327461",
+						"creativeId" : "1327465",
 						"baseUnit" : "video",
-						"duration" : "5.105",
+						"duration" : "5.172",
 						"creativeRenditions" : [
 							{
-								"creativeRenditionId" : "2818296",
+								"creativeRenditionId" : "2818314",
 								"creativeApi" : "None",
 								"width" : "384",
 								"height" : "216",
 								"preference" : "0",
-								"bitrate" : "325",
+								"bitrate" : "369",
 								"parameters" : [],
 								"asset" : {
-									"id" : "2778360",
-									"name" : "NAHD00238-02_384x216_400_m30.mp4",
-									"url" : "http:\/\/asmassets.mtvnservices.com\/asm\/2014\/nick\/bumpers\/NAHD00238-02_384x216_400_m30.mp4",
+									"id" : "2778378",
+									"name" : "NAHD00238-04_384x216_400_m30.mp4",
+									"url" : "http:\/\/asmassets.mtvnservices.com\/asm\/2014\/nick\/bumpers\/NAHD00238-04_384x216_400_m30.mp4",
 									"contentType" : "video\/mp4-h264",
 									"mimeType" : "video\/mp4",
-									"bytes" : "208585",
+									"bytes" : "236727",
 									"deliveryMethod" : "progressive"
 								},
 								"otherAssets" : []
 							},
 							{
-								"creativeRenditionId" : "2818297",
+								"creativeRenditionId" : "2818315",
 								"creativeApi" : "None",
 								"width" : "512",
 								"height" : "288",
 								"preference" : "0",
-								"bitrate" : "519",
+								"bitrate" : "687",
 								"parameters" : [],
 								"asset" : {
-									"id" : "2778361",
-									"name" : "NAHD00238-02_512x288_750_m30.mp4",
-									"url" : "http:\/\/asmassets.mtvnservices.com\/asm\/2014\/nick\/bumpers\/NAHD00238-02_512x288_750_m30.mp4",
+									"id" : "2778379",
+									"name" : "NAHD00238-04_512x288_750_m30.mp4",
+									"url" : "http:\/\/asmassets.mtvnservices.com\/asm\/2014\/nick\/bumpers\/NAHD00238-04_512x288_750_m30.mp4",
 									"contentType" : "video\/mp4-h264",
 									"mimeType" : "video\/mp4",
-									"bytes" : "332712",
+									"bytes" : "440241",
 									"deliveryMethod" : "progressive"
 								},
 								"otherAssets" : []
 							},
 							{
-								"creativeRenditionId" : "2818298",
+								"creativeRenditionId" : "2818316",
 								"creativeApi" : "None",
 								"width" : "640",
 								"height" : "360",
 								"preference" : "0",
-								"bitrate" : "635",
+								"bitrate" : "1103",
 								"parameters" : [],
 								"asset" : {
-									"id" : "2778362",
-									"name" : "NAHD00238-02_640x360_1200_m30.mp4",
-									"url" : "http:\/\/asmassets.mtvnservices.com\/asm\/2014\/nick\/bumpers\/NAHD00238-02_640x360_1200_m30.mp4",
+									"id" : "2778380",
+									"name" : "NAHD00238-04_640x360_1200_m30.mp4",
+									"url" : "http:\/\/asmassets.mtvnservices.com\/asm\/2014\/nick\/bumpers\/NAHD00238-04_640x360_1200_m30.mp4",
 									"contentType" : "video\/mp4-h264",
 									"mimeType" : "video\/mp4",
-									"bytes" : "406954",
+									"bytes" : "706207",
 									"deliveryMethod" : "progressive"
 								},
 								"otherAssets" : []
 							},
 							{
-								"creativeRenditionId" : "2818299",
+								"creativeRenditionId" : "2818317",
 								"creativeApi" : "None",
 								"width" : "768",
 								"height" : "432",
 								"preference" : "0",
-								"bitrate" : "774",
+								"bitrate" : "1565",
 								"parameters" : [],
 								"asset" : {
-									"id" : "2778363",
-									"name" : "NAHD00238-02_768x432_1700_m30.mp4",
-									"url" : "http:\/\/asmassets.mtvnservices.com\/asm\/2014\/nick\/bumpers\/NAHD00238-02_768x432_1700_m30.mp4",
+									"id" : "2778381",
+									"name" : "NAHD00238-04_768x432_1700_m30.mp4",
+									"url" : "http:\/\/asmassets.mtvnservices.com\/asm\/2014\/nick\/bumpers\/NAHD00238-04_768x432_1700_m30.mp4",
 									"contentType" : "video\/mp4-h264",
 									"mimeType" : "video\/mp4",
-									"bytes" : "495471",
+									"bytes" : "1002195",
 									"deliveryMethod" : "progressive"
 								},
 								"otherAssets" : []
 							},
 							{
-								"creativeRenditionId" : "2818300",
+								"creativeRenditionId" : "2818318",
 								"creativeApi" : "None",
 								"width" : "960",
 								"height" : "540",
 								"preference" : "0",
-								"bitrate" : "932",
+								"bitrate" : "2037",
 								"parameters" : [],
 								"asset" : {
-									"id" : "2778364",
-									"name" : "NAHD00238-02_960x540_2200_m31.mp4",
-									"url" : "http:\/\/asmassets.mtvnservices.com\/asm\/2014\/nick\/bumpers\/NAHD00238-02_960x540_2200_m31.mp4",
+									"id" : "2778382",
+									"name" : "NAHD00238-04_960x540_2200_m31.mp4",
+									"url" : "http:\/\/asmassets.mtvnservices.com\/asm\/2014\/nick\/bumpers\/NAHD00238-04_960x540_2200_m31.mp4",
 									"contentType" : "video\/mp4-h264",
 									"mimeType" : "video\/mp4",
-									"bytes" : "596723",
+									"bytes" : "1303720",
 									"deliveryMethod" : "progressive"
 								},
 								"otherAssets" : []
 							},
 							{
-								"creativeRenditionId" : "2818301",
+								"creativeRenditionId" : "2818319",
 								"creativeApi" : "None",
 								"width" : "1280",
 								"height" : "720",
 								"preference" : "0",
-								"bitrate" : "1270",
+								"bitrate" : "3225",
 								"parameters" : [],
 								"asset" : {
-									"id" : "2778365",
-									"name" : "NAHD00238-02_1280x720_3500_h32.mp4",
-									"url" : "http:\/\/asmassets.mtvnservices.com\/asm\/2014\/nick\/bumpers\/NAHD00238-02_1280x720_3500_h32.mp4",
+									"id" : "2778383",
+									"name" : "NAHD00238-04_1280x720_3500_h32.mp4",
+									"url" : "http:\/\/asmassets.mtvnservices.com\/asm\/2014\/nick\/bumpers\/NAHD00238-04_1280x720_3500_h32.mp4",
 									"contentType" : "video\/mp4-h264",
 									"mimeType" : "video\/mp4",
-									"bytes" : "813427",
+									"bytes" : "2064457",
 									"deliveryMethod" : "progressive"
 								},
 								"otherAssets" : []
@@ -259,7 +251,7 @@ tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
 			"videoAsset" : {
 				"eventCallbacks" : [
 					{
-						"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=a110&n=82125%3B82125%3B174975&t=1412021167411032009&f=&cn=videoView&et=i&uxnw=&uxss=&uxct=",
+						"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=c119&n=82125%3B82125%3B174975&t=1412021346263208010&f=&cn=videoView&et=i&uxnw=&uxss=&uxct=",
 						"name" : "videoView",
 						"type" : "IMPRESSION",
 						"use" : "OVERRIDE",
@@ -280,7 +272,7 @@ tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
 					{
 						"eventCallbacks" : [
 							{
-								"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=a110&n=82125%3B82125%3B174975&t=1412021167411032009&f=&cn=slotImpression&et=i&tpos=360&init=1&slid=1",
+								"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=c119&n=82125%3B82125%3B174975&t=1412021346263208010&f=&cn=slotImpression&et=i&tpos=360&init=1&slid=1",
 								"name" : "slotImpression",
 								"type" : "IMPRESSION",
 								"use" : "OVERRIDE",
@@ -288,7 +280,7 @@ tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
 								"trackingUrls" : []
 							},
 							{
-								"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=a110&n=82125%3B82125%3B174975&t=1412021167411032009&f=&cn=slotEnd&et=i&tpos=360&init=1&slid=1",
+								"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=c119&n=82125%3B82125%3B174975&t=1412021346263208010&f=&cn=slotEnd&et=i&tpos=360&init=1&slid=1",
 								"name" : "slotEnd",
 								"type" : "IMPRESSION",
 								"use" : "OVERRIDE",
@@ -305,7 +297,7 @@ tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
 					{
 						"eventCallbacks" : [
 							{
-								"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=a110&n=82125%3B82125%3B174975&t=1412021167411032009&f=&cn=slotImpression&et=i&tpos=540&init=1&slid=2",
+								"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=c119&n=82125%3B82125%3B174975&t=1412021346263208010&f=&cn=slotImpression&et=i&tpos=540&init=1&slid=2",
 								"name" : "slotImpression",
 								"type" : "IMPRESSION",
 								"use" : "OVERRIDE",
@@ -313,7 +305,7 @@ tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
 								"trackingUrls" : []
 							},
 							{
-								"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=a110&n=82125%3B82125%3B174975&t=1412021167411032009&f=&cn=slotEnd&et=i&tpos=540&init=1&slid=2",
+								"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=c119&n=82125%3B82125%3B174975&t=1412021346263208010&f=&cn=slotEnd&et=i&tpos=540&init=1&slid=2",
 								"name" : "slotEnd",
 								"type" : "IMPRESSION",
 								"use" : "OVERRIDE",
@@ -330,7 +322,7 @@ tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
 					{
 						"eventCallbacks" : [
 							{
-								"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=a110&n=82125%3B82125%3B174975&t=1412021167411032009&f=&cn=slotImpression&et=i&tpos=0&init=1&slid=0",
+								"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=c119&n=82125%3B82125%3B174975&t=1412021346263208010&f=&cn=slotImpression&et=i&tpos=0&init=1&slid=0",
 								"name" : "slotImpression",
 								"type" : "IMPRESSION",
 								"use" : "OVERRIDE",
@@ -338,7 +330,7 @@ tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
 								"trackingUrls" : []
 							},
 							{
-								"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=a110&n=82125%3B82125%3B174975&t=1412021167411032009&f=&cn=slotEnd&et=i&tpos=0&init=1&slid=0",
+								"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=c119&n=82125%3B82125%3B174975&t=1412021346263208010&f=&cn=slotEnd&et=i&tpos=0&init=1&slid=0",
 								"name" : "slotEnd",
 								"type" : "IMPRESSION",
 								"use" : "OVERRIDE",
@@ -346,20 +338,20 @@ tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
 								"trackingUrls" : []
 							}
 						],
-						"customId" : "0.0.0.1943472372",
-						"compatibleDimensions" : "320,568",
+						"customId" : "0.0.0.381593469",
+						"compatibleDimensions" : "768,1024",
 						"selectedAds" : [
 							{
 								"eventCallbacks" : [
 									{
-										"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=a110&n=82125%3B82125%3B174975&t=1412021167411032009&f=&r=82125&adid=2087789&reid=1451509&arid=0&iw=&uxnw=&uxss=&uxct=",
+										"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=c119&n=82125%3B82125%3B174975&t=1412021346263208010&f=&r=82125&adid=2087789&reid=1451509&arid=0&iw=&uxnw=&uxss=&uxct=",
 										"type" : "GENERIC",
 										"use" : "BASE",
 										"showBrowser" : false,
 										"trackingUrls" : []
 									},
 									{
-										"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=a110&n=82125%3B82125%3B174975&t=1412021167411032009&f=&r=82125&adid=2087789&reid=1451509&arid=0&auid=&cn=defaultImpression&et=i&_cc=2087789,1451509,13930.,13930.,1412021167,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
+										"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=c119&n=82125%3B82125%3B174975&t=1412021346263208010&f=&r=82125&adid=2087789&reid=1451509&arid=0&auid=&cn=defaultImpression&et=i&_cc=2087789,1451509,13930.,13930.,1412021346,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
 										"name" : "defaultImpression",
 										"type" : "IMPRESSION",
 										"use" : "OVERRIDE",
@@ -367,7 +359,7 @@ tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
 										"trackingUrls" : []
 									},
 									{
-										"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=a110&n=82125%3B82125%3B174975&t=1412021167411032009&f=&r=82125&adid=2087789&reid=1451509&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+										"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=c119&n=82125%3B82125%3B174975&t=1412021346263208010&f=&r=82125&adid=2087789&reid=1451509&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
 										"name" : "defaultClick",
 										"type" : "CLICK",
 										"use" : "OVERRIDE",
@@ -386,14 +378,14 @@ tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
 							{
 								"eventCallbacks" : [
 									{
-										"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=a110&n=82125%3B82125%3B174975&t=1412021167411032009&f=&r=82125&adid=6133624&reid=2818296&arid=0&iw=&uxnw=&uxss=&uxct=",
+										"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=c119&n=82125%3B82125%3B174975&t=1412021346263208010&f=&r=82125&adid=6133624&reid=2818314&arid=0&iw=&uxnw=&uxss=&uxct=",
 										"type" : "GENERIC",
 										"use" : "BASE",
 										"showBrowser" : false,
 										"trackingUrls" : []
 									},
 									{
-										"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=a110&n=82125%3B82125%3B174975&t=1412021167411032009&f=&r=82125&adid=6133624&reid=2818296&arid=0&auid=&cn=defaultImpression&et=i&_cc=6133624,2818296,,13930.,1412021167,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
+										"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=c119&n=82125%3B82125%3B174975&t=1412021346263208010&f=&r=82125&adid=6133624&reid=2818314&arid=0&auid=&cn=defaultImpression&et=i&_cc=6133624,2818314,,13930.,1412021346,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
 										"name" : "defaultImpression",
 										"type" : "IMPRESSION",
 										"use" : "OVERRIDE",
@@ -401,7 +393,7 @@ tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
 										"trackingUrls" : []
 									},
 									{
-										"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=a110&n=82125%3B82125%3B174975&t=1412021167411032009&f=&r=82125&adid=6133624&reid=2818296&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+										"url" : "http:\/\/140cc.v.fwmrm.net\/ad\/l\/1?s=c119&n=82125%3B82125%3B174975&t=1412021346263208010&f=&r=82125&adid=6133624&reid=2818314&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
 										"name" : "defaultClick",
 										"type" : "CLICK",
 										"use" : "OVERRIDE",
@@ -410,10 +402,10 @@ tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
 									}
 								],
 								"adId" : "6133624",
-								"creativeId" : "1327461",
+								"creativeId" : "1327465",
 								"replicaId" : "0",
 								"networkId" : "82125",
-								"creativeRenditionId" : "2818296",
+								"creativeRenditionId" : "2818314",
 								"companionAds" : [],
 								"fallbackAds" : []
 							}
