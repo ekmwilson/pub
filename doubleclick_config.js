@@ -1,9 +1,9 @@
 [
 	{
 		"doubleclickEnabled":"true",
-		"doubleClickStaticAdAppId":"android_test_app",
+		"doubleClickStaticAdAppId":"btg_test_app",
 		"doubleclickUseExternalBrowser":true,
-		"appIsCoppaCompliant":true,
+		"doubleClickStaticAdIsCoppaCompliant":true,
 		"doubleClickAdIndicatorVisible":false,
 		"doubleClickUseBumper":true
 	}
