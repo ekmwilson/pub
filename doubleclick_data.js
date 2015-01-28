@@ -1,7 +1,7 @@
 [
 {
 "doubleclickKeyValues":"",
-"doubleclickAdSize":"600x500",
+"doubleclickAdSize":"300x250",
 "doubleclickIsDfp":false,
 "doubleclickDfpData":
 {
