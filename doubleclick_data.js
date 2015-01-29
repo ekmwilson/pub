@@ -1,6 +1,5 @@
 [
 {
-"doubleclickStaticPixelSize":"1200x1000",
 "doubleclickKeyValues":"",
 "doubleclickAdSize":"300x250",
 "doubleclickIsDfp":false,
