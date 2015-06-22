@@ -1,6 +1,7 @@
 [
 	{
 		"pageName" : "test/bento/testrig",
+		"channel" : "channell",
 		"linkName" : "test/bento/link",
 		"prop1"    : "value of prop  1 Data file",
 		"prop15"   : "value of prop 15 data file",
