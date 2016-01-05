@@ -1,7 +1,7 @@
 [
 {
 "doubleclickKeyValues":"testmode=celtra_mobile_300x250",
-"doubleclickAdSize":"300x50",
+"doubleclickAdSize":"300x250",
 "doubleclickIsDfp":false,
 "doubleclickDfpData":
 {
