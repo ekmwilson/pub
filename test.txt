@@ -1,0 +1,4 @@
+notifier.sendNotification(
+    ADMS_TRACK_STATE,
+    {"v.pv":"TRUE","v.TimeStamp":"timestamp","pageName":"Basic pagename","v.activity":"activity","trackState":"Basic pagename"}
+);
