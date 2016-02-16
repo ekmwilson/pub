@@ -1,7 +1,7 @@
 [
 	{
 		"Release 96": {
-			"Warmup": {
+			"Warm Up": {
 				"Artist": "Deorro x Chris Brown",
 				"Title":"Five More Hours"
 			},
@@ -33,13 +33,13 @@
 				"Artist": "Zedd feat. Bahari",
 				"Title":"Addicted to a Memory"
 			},
-			"Core": {
+			"Abs": {
 				"Artist": "Jason Derulo",
 				"Title":"Want you to want me"
 			}
 		},
 		"Release 95": {
-			"Warmup": {
+			"Warm Up": {
 				"Artist": "Calvin Harris feat. Ellie Goulding",
 				"Title":"Outisde"
 			},
@@ -71,13 +71,13 @@
 				"Artist": "Three Days Grace",
 				"Title":"I Am Machine"
 			},
-			"Core": {
+			"Abs": {
 				"Artist": "Maroon 5",
 				"Title":"Sugar"
 			}
 		},
 		"Release 94": {
-			"Warmup": {
+			"Warm Up": {
 				"Artist": "Alesso feat. Tove Lo",
 				"Title":"Heroes (We Could Be)"
 			},
@@ -109,13 +109,13 @@
 				"Artist": "Zylent feat. Katatonic",
 				"Title":"This Is How It Goes"
 			},
-			"Core": {
+			"Abs": {
 				"Artist": "Gwen Stefani",
 				"Title":"Baby Don't Lie"
 			}
 		},
 		"Release 93": {
-			"Warmup": {
+			"Warm Up": {
 				"Artist": "Ariana Grande feat. Zedd",
 				"Title":"Break Free"
 			},
@@ -147,13 +147,13 @@
 				"Artist": "Fedde le Grand",
 				"Title":"Twisted (Eptic Remix)"
 			},
-			"Core": {
+			"Abs": {
 				"Artist": "Meghan Trainor",
 				"Title":"All About That Base"
 			}
 		},
 		"Release 92": {
-			"Warmup": {
+			"Warm Up": {
 				"Artist": "All We Need Is Love",
 				"Title":"Ricki-Lee"
 			},
@@ -185,7 +185,7 @@
 				"Artist": "Armin Van Buuren",
 				"Title":"Ping Pong (Radio Edit)"
 			},
-			"Core": {
+			"Abs": {
 				"Artist": "Iggy Azalea feat. Charli XCX",
 				"Title":"Fancy"
 			}
