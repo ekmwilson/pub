@@ -1,5 +1,83 @@
 [
 	{
+		"Release 98": {
+			"Warm Up": {
+				"Artist": "Armin van Buuren feat. Cimo Frankel",
+				"Title": "Strong Ones"
+			},
+			"Squats": {
+				"Artist": "Vinai",
+				"Title":"Techno"
+			},
+			"Chest": {
+				"Artist": "Ariana Grande",
+				"Title":"Focus"
+			},
+			"Back": {
+				"Artist": "Andrew Rayel & Mark Sixma",
+				"Title":"Chased"
+			},
+			"Triceps": {
+				"Artist": "Nero",
+				"Title":"Two Minds"
+			},
+			"Biceps": {
+				"Artist": "Panic! At The Disco",
+				"Title":"Victorious"
+			},
+			"Lunges": {
+				"Artist": "KSHMR & Bassjackers feat. Sirah",
+				"Title":"Memories"
+			},
+			"Shoulders": {
+				"Artist": "Nick Skitz",
+				"Title":"Redliner (Studio-X Trap Remix)"
+			},
+			"Abs": {
+				"Artist": "Flo Rida",
+				"Title":"My House"
+			}
+		},
+
+		"Release 97": {
+			"Warm Up": {
+				"Artist": "Ryan Tedder",
+				"Title": "Scars"
+			},
+			"Squats": {
+				"Artist": "Bassjackers & MAKJ",
+				"Title":"Derp"
+			},
+			"Chest": {
+				"Artist": "Godsmack",
+				"Title":"Generation Day"
+			},
+			"Back": {
+				"Artist": "Nero",
+				"Title":"Dark Skies"
+			},
+			"Triceps": {
+				"Artist": "Avicii",
+				"Title":"Waiting For Love"
+			},
+			"Biceps": {
+				"Artist": "Bon Jovi",
+				"Title":"We Don't Run"
+			},
+			"Lunges": {
+				"Artist": "Calvin Harris",
+				"Title":"How Deep is Your Love"
+			},
+			"Shoulders": {
+				"Artist": "Zedd & Botnek",
+				"Title":"Bumble Bee"
+			},
+			"Abs": {
+				"Artist": "Travis Mills feat. T.I.",
+				"Title":"Young & Stupid"
+			}
+		},
+
 		"Release 96": {
 			"Warm Up": {
 				"Artist": "Deorro x Chris Brown",
