@@ -1,5 +1,81 @@
 [
 	{
+		"Release 100": {
+			"Warm Up": {
+				"Artist": "Calvin Harris feat. Rihanna",
+				"Title": "This Is What You Came For"
+			},
+			"Squats": {
+				"Artist": "Knife Party & Tom Staar",
+				"Title":"Kraken"
+			},
+			"Chest": {
+				"Artist": "Pitbull feat. Robin Thicke",
+				"Title":"Bad Man"
+			},
+			"Back": {
+				"Artist": "Seven Lions feat. Vok",
+				"Title":"Creation"
+			},
+			"Triceps": {
+				"Artist": "Meghan Trainor",
+				"Title":"Me Too"
+			},
+			"Biceps": {
+				"Artist": "Flo Rida",
+				"Title":"Who's With Me"
+			},
+			"Lunges": {
+				"Artist": "Galantis",
+				"Title":"No Money"
+			},
+			"Shoulders": {
+				"Artist": "Chase & Status feat. Novelist",
+				"Title":"NRG"
+			},
+			"Abs": {
+				"Artist": "OneRepublic",
+				"Title":"Wherever I Go"
+			}
+		},
+		"Release 99": {
+			"Warm Up": {
+				"Artist": "Hardwell feat. Jake Reese",
+				"Title": "Mad World"
+			},
+			"Squats": {
+				"Artist": "Knife Party",
+				"Title":"Power Glove"
+			},
+			"Chest": {
+				"Artist": "3 Doors Down",
+				"Title":"In the Dark"
+			},
+			"Back": {
+				"Artist": "Andrew Rayel & Digital",
+				"Title":"Winterburn"
+			},
+			"Triceps": {
+				"Artist": "Ellie Goulding",
+				"Title":"Something In The Way You Move"
+			},
+			"Biceps": {
+				"Artist": "Panic! at the Disco",
+				"Title":"Emporer's New Clothes"
+			},
+			"Lunges": {
+				"Artist": "R3hab & Headhunterz",
+				"Title":"Won't Stop Rocking"
+			},
+			"Shoulders": {
+				"Artist": "Armin Van Buuren",
+				"Title":"Old School"
+			},
+			"Abs": {
+				"Artist": "Rihanna feat. Drake",
+				"Title":"Work"
+			}
+		},
 		"Release 98": {
 			"Warm Up": {
 				"Artist": "Armin van Buuren feat. Cimo Frankel",
