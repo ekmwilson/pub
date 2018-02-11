@@ -1,5 +1,195 @@
 [
 	{
+		"Release 105": {
+			"Warm Up": {
+				"Artist": "Martin Solveig feat. Alma",
+				"Title": "All Stars"
+			},
+			"Squats": {
+				"Artist": "Blasterjaxx feat. Lara",
+				"Title":"Do Or Die"
+			},
+			"Chest": {
+				"Artist": "The Killers",
+				"Title":"The Man"
+			},
+			"Back": {
+				"Artist": "RL Grime feat. Miguel",
+				"Title":"Stay For It"
+			},
+			"Triceps": {
+				"Artist": "P!nk",
+				"Title":"What About Us"
+			},
+			"Biceps": {
+				"Artist": "Fall Out Boy",
+				"Title":"Champion"
+			},
+			"Lunges": {
+				"Artist": "Axwell/\\Ingrosso",
+				"Title":"How Do You Feel Right Now"
+			},
+			"Shoulders": {
+				"Artist": "Terror Squad",
+				"Title":"Lean Back (NGHTMRE Remix)"
+			},
+			"Abs": {
+				"Artist": "The All American Rejects",
+				"Title":"Sweat"
+			}
+		},
+		"Release 104": {
+			"Warm Up": {
+				"Artist": "Axwell/\\Ingrosso",
+				"Title": "More Than You Know"
+			},
+			"Squats": {
+				"Artist": "Blasterjaxx feat. Jonathan Mendelsohn",
+				"Title":"Black Rose"
+			},
+			"Chest": {
+				"Artist": "Fall Out Boy",
+				"Title":"Young And Menace"
+			},
+			"Back": {
+				"Artist": "Craig David & Sigala",
+				"Title":"Ain't Giving Up (WiDE AWAKE Remix)"
+			},
+			"Triceps": {
+				"Artist": "Little Mix",
+				"Title":"Touch"
+			},
+			"Biceps": {
+				"Artist": "Flosstradamus & Mayhem feat. Wack Flocka Flame",
+				"Title":"Back Again"
+			},
+			"Lunges": {
+				"Artist": "Deorro",
+				"Title":"Rise And Shine"
+			},
+			"Shoulders": {
+				"Artist": "Paris Blohm feat. Elle Vee",
+				"Title":"Into Dust"
+			},
+			"Abs": {
+				"Artist": "OneRepublic",
+				"Title":"No Vacancy"
+			}
+		},
+		"Release 103": {
+			"Warm Up": {
+				"Artist": "Martin Solveig feat. Ina Wroldsen",
+				"Title": "Places"
+			},
+			"Squats": {
+				"Artist": "Will K feat. Sean Declase",
+				"Title":"Here Comes The Sun (Tom Staar Radio Edit)"
+			},
+			"Chest": {
+				"Artist": "Imagine Dragons",
+				"Title":"Believer"
+			},
+			"Back": {
+				"Artist": "Armin Van Buuren feat. Olaf Blackwood",
+				"Title":"I Need You (Extended Club Mix)"
+			},
+			"Triceps": {
+				"Artist": "Pharrel Williams",
+				"Title":"Come Get It Bae"
+			},
+			"Biceps": {
+				"Artist": "DJ Snake & Justin Bieber",
+				"Title":"Let Me Love You (R3hab Remix)"
+			},
+			"Lunges": {
+				"Artist": "Steve Aoki & Autoerotique",
+				"Title":"ILYSSM"
+			},
+			"Shoulders": {
+				"Artist": "The Chainsmokers",
+				"Title":"Paris (LOUDPVCK Remix)"
+			},
+			"Abs": {
+				"Artist": "Axwell/\\Ingrosso feat. Kid Ink",
+				"Title":"I Love You"
+			}
+		},
+		"Release 102": {
+			"Warm Up": {
+				"Artist": "Fais & Afrojack",
+				"Title": "Used To Have It All"
+			},
+			"Squats": {
+				"Artist": "Sigma feat. Birdy",
+				"Title":"Find Me (Radio Edit)"
+			},
+			"Chest": {
+				"Artist": "Sigala",
+				"Title":"Sweet Lovin'"
+			},
+			"Back": {
+				"Artist": "Zeds Dead & Diplo feat. Elliphant",
+				"Title":"Blame"
+			},
+			"Triceps": {
+				"Artist": "Something In The Water",
+				"Title":"Drum"
+			},
+			"Biceps": {
+				"Artist": "David Guetta & GLOWINTHEDARK feat. French Montana & Infared",
+				"Title":"All The Way Up (Remix) Fat Joe Remy Mar"
+			},
+			"Lunges": {
+				"Artist": "Borgeous & 7 Skies feat. Neon Hitch",
+				"Title":"Lost & Found"
+			},
+			"Shoulders": {
+				"Artist": "GTA & What So Not feat. Tunji Ige",
+				"Title":"Feel It"
+			},
+			"Abs": {
+				"Artist": "The Weekend feat. Daft Punk",
+				"Title":"Starboy"
+			}
+		},
+		"Release 101": {
+			"Warm Up": {
+				"Artist": "Hardwell feat. Jake Reese",
+				"Title": "Run Wild"
+			},
+			"Squats": {
+				"Artist": "Wolfpack & Avancada",
+				"Title":"GO! (Vincent Price Remix)"
+			},
+			"Chest": {
+				"Artist": "Chase & Status feat. George the Poet",
+				"Title":"Spoken Word"
+			},
+			"Back": {
+				"Artist": "Knife Party",
+				"Title":"LRAD"
+			},
+			"Triceps": {
+				"Artist": "PARRI$",
+				"Title":"Friday"
+			},
+			"Biceps": {
+				"Artist": "Jungle Youth",
+				"Title":"Young The Giant"
+			},
+			"Lunges": {
+				"Artist": "DJ Snake feat. Yellow Claw",
+				"Title":"Ocho Cinco"
+			},
+			"Shoulders": {
+				"Artist": "Flux Pavillion & NGHTMRE feat. Jamie Lewis",
+				"Title":"Feel Your Love"
+			},
+			"Abs": {
+				"Artist": "Closer",
+				"Title":"The Chainsmokers feat. Halsey"
+			}
+		},
 		"Release 100": {
 			"Warm Up": {
 				"Artist": "Calvin Harris feat. Rihanna",
