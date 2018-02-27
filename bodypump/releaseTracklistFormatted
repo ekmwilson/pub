@@ -1,1019 +1,1017 @@
-{
-	"releases": [{
-			"number": 105,
-			"warmUp": {
-				"artist": "Martin Solveig feat. Alma",
-				"title": "All Stars"
-			},
-			"squats": {
-				"artist": "Blasterjaxx feat. Lara",
-				"title": "Do Or Die"
-			},
-			"chest": {
-				"artist": "The Killers",
-				"title": "The Man"
-			},
-			"back": {
-				"artist": "RL Grime feat. Miguel",
-				"title": "Stay For It"
-			},
-			"triceps": {
-				"artist": "P!nk",
-				"title": "What About Us"
-			},
-			"biceps": {
-				"artist": "Fall Out Boy",
-				"title": "Champion"
-			},
-			"lunges": {
-				"artist": "Axwell/\\Ingrosso",
-				"title": "How Do You Feel Right Now"
-			},
-			"shoulders": {
-				"artist": "Terror Squad",
-				"title": "Lean back (NGHTMRE Remix)"
-			},
-			"abs": {
-				"artist": "The All American Rejects",
-				"title": "Sweat"
-			}
+[{
+		"number": 105,
+		"warmUp": {
+			"artist": "Martin Solveig feat. Alma",
+			"title": "All Stars"
 		},
-		{
-			"number": 104,
-			"warmUp": {
-				"artist": "Axwell/\\Ingrosso",
-				"title": "More Than You Know"
-			},
-			"squats": {
-				"artist": "Blasterjaxx feat. Jonathan Mendelsohn",
-				"title": "Black Rose"
-			},
-			"chest": {
-				"artist": "Fall Out Boy",
-				"title": "Young And Menace"
-			},
-			"back": {
-				"artist": "Craig David & Sigala",
-				"title": "Ain't Giving Up (WiDE AWAKE Remix)"
-			},
-			"triceps": {
-				"artist": "Little Mix",
-				"title": "Touch"
-			},
-			"biceps": {
-				"artist": "Flosstradamus & Mayhem feat. Wack Flocka Flame",
-				"title": "back Again"
-			},
-			"lunges": {
-				"artist": "Deorro",
-				"title": "Rise And Shine"
-			},
-			"shoulders": {
-				"artist": "Paris Blohm feat. Elle Vee",
-				"title": "Into Dust"
-			},
-			"abs": {
-				"artist": "OneRepublic",
-				"title": "No Vacancy"
-			}
+		"squats": {
+			"artist": "Blasterjaxx feat. Lara",
+			"title": "Do Or Die"
 		},
-		{
-			"number": 103,
-			"warmUp": {
-				"artist": "Martin Solveig feat. Ina Wroldsen",
-				"title": "Places"
-			},
-			"squats": {
-				"artist": "Will K feat. Sean Declase",
-				"title": "Here Comes The Sun (Tom Staar Radio Edit)"
-			},
-			"chest": {
-				"artist": "Imagine Dragons",
-				"title": "Believer"
-			},
-			"back": {
-				"artist": "Armin Van Buuren feat. Olaf Blackwood",
-				"title": "I Need You (Extended Club Mix)"
-			},
-			"triceps": {
-				"artist": "Pharrel Williams",
-				"title": "Come Get It Bae"
-			},
-			"biceps": {
-				"artist": "DJ Snake & Justin Bieber",
-				"title": "Let Me Love You (R3hab Remix)"
-			},
-			"lunges": {
-				"artist": "Steve Aoki & Autoerotique",
-				"title": "ILYSSM"
-			},
-			"shoulders": {
-				"artist": "The Chainsmokers",
-				"title": "Paris (LOUDPVCK Remix)"
-			},
-			"abs": {
-				"artist": "Axwell/\\Ingrosso feat. Kid Ink",
-				"title": "I Love You"
-			}
+		"chest": {
+			"artist": "The Killers",
+			"title": "The Man"
 		},
-		{
-			"number": 102,
-			"warmUp": {
-				"artist": "Fais & Afrojack",
-				"title": "Used To Have It All"
-			},
-			"squats": {
-				"artist": "Sigma feat. Birdy",
-				"title": "Find Me (Radio Edit)"
-			},
-			"chest": {
-				"artist": "Sigala",
-				"title": "Sweet Lovin'"
-			},
-			"back": {
-				"artist": "Zeds Dead & Diplo feat. Elliphant",
-				"title": "Blame"
-			},
-			"triceps": {
-				"artist": "Something In The Water",
-				"title": "Drum"
-			},
-			"biceps": {
-				"artist": "David Guetta & GLOWINTHEDARK feat. French Montana & Infared",
-				"title": "All The Way Up (Remix) Fat Joe Remy Mar"
-			},
-			"lunges": {
-				"artist": "Borgeous & 7 Skies feat. Neon Hitch",
-				"title": "Lost & Found"
-			},
-			"shoulders": {
-				"artist": "GTA & What So Not feat. Tunji Ige",
-				"title": "Feel It"
-			},
-			"abs": {
-				"artist": "The Weekend feat. Daft Punk",
-				"title": "Starboy"
-			}
+		"back": {
+			"artist": "RL Grime feat. Miguel",
+			"title": "Stay For It"
 		},
-		{
-			"number": 101,
-			"warmUp": {
-				"artist": "Hardwell feat. Jake Reese",
-				"title": "Run Wild"
-			},
-			"squats": {
-				"artist": "Wolfpack & Avancada",
-				"title": "GO! (Vincent Price Remix)"
-			},
-			"chest": {
-				"artist": "Chase & Status feat. George the Poet",
-				"title": "Spoken Word"
-			},
-			"back": {
-				"artist": "Knife Party",
-				"title": "LRAD"
-			},
-			"triceps": {
-				"artist": "PARRI$",
-				"title": "Friday"
-			},
-			"biceps": {
-				"artist": "Jungle Youth",
-				"title": "Young The Giant"
-			},
-			"lunges": {
-				"artist": "DJ Snake feat. Yellow Claw",
-				"title": "Ocho Cinco"
-			},
-			"shoulders": {
-				"artist": "Flux Pavillion & NGHTMRE feat. Jamie Lewis",
-				"title": "Feel Your Love"
-			},
-			"abs": {
-				"artist": "Closer",
-				"title": "The Chainsmokers feat. Halsey"
-			}
+		"triceps": {
+			"artist": "P!nk",
+			"title": "What About Us"
 		},
-		{
-			"number": 100,
-			"warmUp": {
-				"artist": "Calvin Harris feat. Rihanna",
-				"title": "This Is What You Came For"
-			},
-			"squats": {
-				"artist": "Knife Party & Tom Staar",
-				"title": "Kraken"
-			},
-			"chest": {
-				"artist": "Pitbull feat. Robin Thicke",
-				"title": "Bad Man"
-			},
-			"back": {
-				"artist": "Seven Lions feat. Vok",
-				"title": "Creation"
-			},
-			"triceps": {
-				"artist": "Meghan Trainor",
-				"title": "Me Too"
-			},
-			"biceps": {
-				"artist": "Flo Rida",
-				"title": "Who's With Me"
-			},
-			"lunges": {
-				"artist": "Galantis",
-				"title": "No Money"
-			},
-			"shoulders": {
-				"artist": "Chase & Status feat. Novelist",
-				"title": "NRG"
-			},
-			"abs": {
-				"artist": "OneRepublic",
-				"title": "Wherever I Go"
-			}
+		"biceps": {
+			"artist": "Fall Out Boy",
+			"title": "Champion"
 		},
-		{
-			"number": 99,
-			"warmUp": {
-				"artist": "Hardwell feat. Jake Reese",
-				"title": "Mad World"
-			},
-			"squats": {
-				"artist": "Knife Party",
-				"title": "Power Glove"
-			},
-			"chest": {
-				"artist": "3 Doors Down",
-				"title": "In the Dark"
-			},
-			"back": {
-				"artist": "Andrew Rayel & Digital",
-				"title": "Winterburn"
-			},
-			"triceps": {
-				"artist": "Ellie Goulding",
-				"title": "Something In The Way You Move"
-			},
-			"biceps": {
-				"artist": "Panic! at the Disco",
-				"title": "Emporer's New Clothes"
-			},
-			"lunges": {
-				"artist": "R3hab & Headhunterz",
-				"title": "Won't Stop Rocking"
-			},
-			"shoulders": {
-				"artist": "Armin Van Buuren",
-				"title": "Old School"
-			},
-			"abs": {
-				"artist": "Rihanna feat. Drake",
-				"title": "Work"
-			}
+		"lunges": {
+			"artist": "Axwell/\\Ingrosso",
+			"title": "How Do You Feel Right Now"
 		},
-		{
-			"number": 98,
-			"warmUp": {
-				"artist": "Armin van Buuren feat. Cimo Frankel",
-				"title": "Strong Ones"
-			},
-			"squats": {
-				"artist": "Vinai",
-				"title": "Techno"
-			},
-			"chest": {
-				"artist": "Ariana Grande",
-				"title": "Focus"
-			},
-			"back": {
-				"artist": "Andrew Rayel & Mark Sixma",
-				"title": "Chased"
-			},
-			"triceps": {
-				"artist": "Nero",
-				"title": "Two Minds"
-			},
-			"biceps": {
-				"artist": "Panic! At The Disco",
-				"title": "Victorious"
-			},
-			"lunges": {
-				"artist": "KSHMR & Bassjackers feat. Sirah",
-				"title": "Memories"
-			},
-			"shoulders": {
-				"artist": "Nick Skitz",
-				"title": "Redliner (Studio-X Trap Remix)"
-			},
-			"abs": {
-				"artist": "Flo Rida",
-				"title": "My House"
-			}
+		"shoulders": {
+			"artist": "Terror Squad",
+			"title": "Lean back (NGHTMRE Remix)"
 		},
-
-		{
-			"number": 97,
-			"warmUp": {
-				"artist": "Ryan Tedder",
-				"title": "Scars"
-			},
-			"squats": {
-				"artist": "Bassjackers & MAKJ",
-				"title": "Derp"
-			},
-			"chest": {
-				"artist": "Godsmack",
-				"title": "Generation Day"
-			},
-			"back": {
-				"artist": "Nero",
-				"title": "Dark Skies"
-			},
-			"triceps": {
-				"artist": "Avicii",
-				"title": "Waiting For Love"
-			},
-			"biceps": {
-				"artist": "Bon Jovi",
-				"title": "We Don't Run"
-			},
-			"lunges": {
-				"artist": "Calvin Harris",
-				"title": "How Deep is Your Love"
-			},
-			"shoulders": {
-				"artist": "Zedd & Botnek",
-				"title": "Bumble Bee"
-			},
-			"abs": {
-				"artist": "Travis Mills feat. T.I.",
-				"title": "Young & Stupid"
-			}
-		},
-
-		{
-			"number": 96,
-			"warmUp": {
-				"artist": "Deorro x Chris Brown",
-				"title": "Five More Hours"
-			},
-			"squats": {
-				"artist": "Tiesto and MOTI",
-				"title": "Blow Your Mind"
-			},
-			"chest": {
-				"artist": "Along Pointless",
-				"title": "Immortals"
-			},
-			"back": {
-				"artist": "Nero",
-				"title": "The Thrill"
-			},
-			"triceps": {
-				"artist": "Panic! At the Disco",
-				"title": "Hallelujah"
-			},
-			"biceps": {
-				"artist": "Flo Rida",
-				"title": "Wobble"
-			},
-			"lunges": {
-				"artist": "Galantis",
-				"title": "Peanut Butter Jelly"
-			},
-			"shoulders": {
-				"artist": "Zedd feat. Bahari",
-				"title": "Addicted to a Memory"
-			},
-			"abs": {
-				"artist": "Jason Derulo",
-				"title": "Want you to want me"
-			}
-		},
-		{
-			"number": 95,
-			"warmUp": {
-				"artist": "Calvin Harris feat. Ellie Goulding",
-				"title": "Outisde"
-			},
-			"squats": {
-				"artist": "Autoerotique & 4B",
-				"title": "Bukem"
-			},
-			"chest": {
-				"artist": "Mark Ronson feat. Bruno Mars",
-				"title": "Uptown Funk"
-			},
-			"back": {
-				"artist": "Blasterjaxx & DBSTF feat. Ryder",
-				"title": "Beautiful World"
-			},
-			"triceps": {
-				"artist": "Fall Out Boy",
-				"title": "Irresistible"
-			},
-			"biceps": {
-				"artist": "Flo Rida feat. Sage The Gemini & Lookas",
-				"title": "GDFR"
-			},
-			"lunges": {
-				"artist": "Calvin Harris & R3Hab",
-				"title": "Burnin"
-			},
-			"shoulders": {
-				"artist": "Three Days Grace",
-				"title": "I Am Machine"
-			},
-			"abs": {
-				"artist": "Maroon 5",
-				"title": "Sugar"
-			}
-		},
-		{
-			"number": 94,
-			"warmUp": {
-				"artist": "Alesso feat. Tove Lo",
-				"title": "Heroes (We Could Be)"
-			},
-			"squats": {
-				"artist": "Vice",
-				"title": "Everybody Go!"
-			},
-			"chest": {
-				"artist": "Jessie J feat. 2 Chainz",
-				"title": "Burnin' Up"
-			},
-			"back": {
-				"artist": "Scooter & Vassy",
-				"title": "Today (Scooter Remix)"
-			},
-			"triceps": {
-				"artist": "Meghan Trainor",
-				"title": "Lips Are Movin"
-			},
-			"biceps": {
-				"artist": "Nickelback",
-				"title": "Get 'Em Up"
-			},
-			"lunges": {
-				"artist": "Dillon Francis feat. Major Lazer & Stylo G",
-				"title": "We Make It Bounce"
-			},
-			"shoulders": {
-				"artist": "Zylent feat. Katatonic",
-				"title": "This Is How It Goes"
-			},
-			"abs": {
-				"artist": "Gwen Stefani",
-				"title": "Baby Don't Lie"
-			}
-		},
-		{
-			"number": 93,
-			"warmUp": {
-				"artist": "Ariana Grande feat. Zedd",
-				"title": "Break Free"
-			},
-			"squats": {
-				"artist": "Showtek feat. We are Loud & Sonny Wilson",
-				"title": "Booyah (Lucky Date Remix)"
-			},
-			"chest": {
-				"artist": "Thirty Seconds to Mars",
-				"title": "Kings and Queens"
-			},
-			"back": {
-				"artist": "Dash Berlin & Jay Cosmic feat. Colin McLoughlin",
-				"title": "Here Tonight (Carita La Nina Radio Edit)"
-			},
-			"triceps": {
-				"artist": "Jessie J, Ariana Grande, & Nicki Minaj",
-				"title": "Bang Bang"
-			},
-			"biceps": {
-				"artist": "Fall Out Boy",
-				"title": "Centuries"
-			},
-			"lunges": {
-				"artist": "Klayplex feat. Virian",
-				"title": "1941"
-			},
-			"shoulders": {
-				"artist": "Fedde le Grand",
-				"title": "Twisted (Eptic Remix)"
-			},
-			"abs": {
-				"artist": "Meghan Trainor",
-				"title": "All About That Base"
-			}
-		},
-		{
-			"number": 92,
-			"warmUp": {
-				"artist": "Ricki-Lee",
-				"title": "All We Need Is Love"
-			},
-			"squats": {
-				"artist": "Autoerotique vs Marc Noir",
-				"title": "GO!"
-			},
-			"chest": {
-				"artist": "Fall Out Boy",
-				"title": "The Pheonix"
-			},
-			"back": {
-				"artist": "BT Fractal & JES",
-				"title": "Letting Go (LTN Radio Edit)"
-			},
-			"triceps": {
-				"artist": "Ariana Grande feat. Iggy Azalea",
-				"title": "Problem"
-			},
-			"biceps": {
-				"artist": "KONGOS",
-				"title": "Come With Me Now"
-			},
-			"lunges": {
-				"artist": "Guiltless Happy",
-				"title": "NRG"
-			},
-			"shoulders": {
-				"artist": "Armin Van Buuren",
-				"title": "Ping Pong (Radio Edit)"
-			},
-			"abs": {
-				"artist": "Iggy Azalea feat. Charli XCX",
-				"title": "Fancy"
-			}
-		},
-		{
-			"number": 91,
-			"warmUp": {
-				"artist": "Wrabel",
-				"title": "Ten Feet Tall"
-			},
-			"squats": {
-				"artist": "The Killers",
-				"title": "Somebody Told Me"
-			},
-			"chest": {
-				"artist": "Ellie Goulding",
-				"title": "Goodness Gracious"
-			},
-			"back": {
-				"artist": "Armin Van Buuren",
-				"title": "Beautiful Life (Remix)"
-			},
-			"triceps": {
-				"artist": "Avicii",
-				"title": "Hey Brother"
-			},
-			"biceps": {
-				"artist": "Five Finger Death Punch",
-				"title": "Bad Company"
-			},
-			"lunges": {
-				"artist": "Zedd",
-				"title": "Find You"
-			},
-			"shoulders": {
-				"artist": "Fatboy Slim",
-				"title": "Eat, Sleep, Rave, Repeat (Remix)"
-			},
-			"abs": {
-				"artist": "Jason Derulo",
-				"title": "Trumpets"
-			}
-		},
-		{
-			"number": 90,
-			"warmUp": {
-				"artist": "Avicii",
-				"title": "You Make Me"
-			},
-			"squats": {
-				"artist": "Rihanna",
-				"title": "What Now"
-			},
-			"chest": {
-				"artist": "Thirty Seconds to Mars",
-				"title": "Conquistador"
-			},
-			"back": {
-				"artist": "Nero",
-				"title": "Promises"
-			},
-			"triceps": {
-				"artist": "P!nk",
-				"title": "Walk of Shame"
-			},
-			"biceps": {
-				"artist": "Panic! at the Disco feat. Loco",
-				"title": "Miss Jackson"
-			},
-			"lunges": {
-				"artist": "Zedd feat. Hayley Williams",
-				"title": "Stay the Night"
-			},
-			"shoulders": {
-				"artist": "Kill The Noise",
-				"title": "Thumbs Up (For Rock N Roll)"
-			},
-			"abs": {
-				"artist": "OneRepublic",
-				"title": "Something I need"
-			}
-		},
-		{
-			"number": 89,
-			"warmUp": {
-				"artist": "Dane Rumble feat. Jupiter Project",
-				"title": "Not Alone"
-			},
-			"squats": {
-				"artist": "R3Hab & Bassjackers",
-				"title": "Raise Those Hands"
-			},
-			"chest": {
-				"artist": "Fall Out Boy",
-				"title": "Where Did the Party Go"
-			},
-			"back": {
-				"artist": "Nero",
-				"title": "Me & You"
-			},
-			"triceps": {
-				"artist": "Lady Gaga",
-				"title": "Applause"
-			},
-			"biceps": {
-				"artist": "The Killers",
-				"title": "When You Were Young"
-			},
-			"lunges": {
-				"artist": "Ellie Goulding",
-				"title": "Burn"
-			},
-			"shoulders": {
-				"artist": "Brooklyn Bounce & DJ Zealot",
-				"title": "True Hardstyler (Silver Nikan Radio Edit)"
-			},
-			"abs": {
-				"artist": "Naughty Boy feat. Sam Smith",
-				"title": "La La La"
-			}
-		},
-		{
-			"number": 88,
-			"warmUp": {
-				"artist": "Jessica Sanchez feat. Ne-Yo",
-				"title": "Tonight"
-			},
-			"squats": {
-				"artist": "Skism feat. DC Breaks & Dee Freer",
-				"title": "Killer (Crush Remix)"
-			},
-			"chest": {
-				"artist": "Fergie, Q-Tip & GoonRock",
-				"title": "A Little Party Never Killed Nobody (All We Got)"
-			},
-			"back": {
-				"artist": "Jens O.",
-				"title": "Somebody (Cc.K Remix)"
-			},
-			"triceps": {
-				"artist": "Macklemore & Ryan Lewis feat. Ray Dalton",
-				"title": "Can't Hold Us"
-			},
-			"biceps": {
-				"artist": "Thirty Seconds to Mars",
-				"title": "Up in the Air"
-			},
-			"lunges": {
-				"artist": "David Guetta feat. Ne-Yo & Akon",
-				"title": "Play Hard"
-			},
-			"shoulders": {
-				"artist": "Brooklyn Bounce & Giorno",
-				"title": "Raving (G! Mix)"
-			},
-			"abs": {
-				"artist": "Ellie Goulding",
-				"title": "Only You"
-			}
-		},
-		{
-			"number": 87,
-			"warmUp": {
-				"artist": "Christina Aguilera",
-				"title": "Let There Be Love"
-			},
-			"squats": {
-				"artist": "Scooter",
-				"title": "Black Betty"
-			},
-			"chest": {
-				"artist": "Pitbull ft. TJR",
-				"title": "Don't Stop The Party"
-			},
-			"back": {
-				"artist": "Nick Skitz & Basslouder ft. Brooklyn Bounce",
-				"title": "Again & Again (Club Mix)"
-			},
-			"triceps": {
-				"artist": "Fall Out Boy",
-				"title": "My Songs Know What You Did In The Dark"
-			},
-			"biceps": {
-				"artist": "Sam And The Womp",
-				"title": "Bom Bom"
-			},
-			"lunges": {
-				"artist": "Calvin Harris feat. Florence Welch",
-				"title": "Sweet Nothing"
-			},
-			"shoulders": {
-				"artist": "Nero",
-				"title": "Crush On You"
-			},
-			"abs": {
-				"artist": "Olly Murs ft. Flo Rida",
-				"title": "Troublemaker"
-			}
-		},
-		{
-			"number": 86,
-			"warmUp": {
-				"artist": "Flo Rida",
-				"title": "I Cry"
-			},
-			"squats": {
-				"artist": "Six60",
-				"title": "In The Clear"
-			},
-			"chest": {
-				"artist": "Christina Aquilera",
-				"title": "Your Body"
-			},
-			"back": {
-				"artist": "DJ Flow",
-				"title": "Campione 2012"
-			},
-			"triceps": {
-				"artist": "Train",
-				"title": "50 Ways To Say Goodbye"
-			},
-			"biceps": {
-				"artist": "Kelly Clarkson",
-				"title": "Dark Side"
-			},
-			"lunges": {
-				"artist": "Swedish House Mafia feat. John Martin",
-				"title": "Don't You Worry Child (Radio Edit)"
-			},
-			"shoulders": {
-				"artist": "Upon Havoc",
-				"title": "We'll Be Coming back"
-			},
-			"abs": {
-				"artist": "Matchbox 20",
-				"title": "She's So Mean"
-			}
-		},
-		{
-			"number": 85,
-			"warmUp": {
-				"artist": "Alexandra Burke",
-				"title": "Heartbreak On Hold"
-			},
-			"squats": {
-				"artist": "Swedish House Mafia vs. Knife Party",
-				"title": "Antidote"
-			},
-			"chest": {
-				"artist": "Muse",
-				"title": "Uprising"
-			},
-			"back": {
-				"artist": "Cascada",
-				"title": "The Rhythm Of The Night (Ryan T. & Rick M. Radio Edit)"
-			},
-			"triceps": {
-				"artist": "Flo Rida",
-				"title": "Let it Roll"
-			},
-			"biceps": {
-				"artist": "P!nk",
-				"title": "Blow Me (One Last Kiss) (Clean Radio Edit)"
-			},
-			"lunges": {
-				"artist": "Loyal Crown",
-				"title": "Spectrum"
-			},
-			"shoulders": {
-				"artist": "Brooklyn Bounce",
-				"title": "This Is How We Rock! (Hardforze H.A.R.D Remix Edit)"
-			},
-			"abs": {
-				"artist": "Eastern Clause",
-				"title": "One More Night"
-			}
-		},
-		{
-			"number": 84,
-			"warmUp": {
-				"artist": "Lock Jaw",
-				"title": "Let's Go"
-			},
-			"squats": {
-				"artist": "Element Depot",
-				"title": "Turning Tables"
-			},
-			"chest": {
-				"artist": "Guiltless United",
-				"title": "Welcome To The Jungle"
-			},
-			"back": {
-				"artist": "Cascada",
-				"title": "Because the Night (Manian Bootleg Cut)"
-			},
-			"triceps": {
-				"artist": "Usher",
-				"title": "Scream"
-			},
-			"biceps": {
-				"artist": "Kayplex",
-				"title": "Crazy"
-			},
-			"lunges": {
-				"artist": "Reality Hero",
-				"title": "Where Have You Been"
-			},
-			"shoulders": {
-				"artist": "Manian",
-				"title": "Welcome To The Club 2011 (Discotronic Radio Edit)"
-			},
-			"abs": {
-				"artist": "Flo Rida",
-				"title": "Whistle"
-			}
-		},
-		{
-			"number": 83,
-			"warmUp": {
-				"artist": "Pimp Dawg",
-				"title": "Set It Off (Wings & Rider Remix Edit)"
-			},
-			"squats": {
-				"artist": "Yesterday Affair",
-				"title": "Summer Of '69"
-			},
-			"chest": {
-				"artist": "Chris Brown",
-				"title": "Turn Up The Music"
-			},
-			"back": {
-				"artist": "Fizzy Deejay",
-				"title": "Set Fire To The Rain (B&W Remix)"
-			},
-			"triceps": {
-				"artist": "Toy Hypo",
-				"title": "Glad You Came"
-			},
-			"biceps": {
-				"artist": "Kelly Clarkson",
-				"title": "Stronger (What Doesn't Kill You)"
-			},
-			"lunges": {
-				"artist": "Manian & Aila",
-				"title": "Turn The Tide (Manox Remix)"
-			},
-			"shoulders": {
-				"artist": "Scooter feat. Vicky Leandros",
-				"title": "C'est Bleu"
-			},
-			"abs": {
-				"artist": "Nickelback",
-				"title": "When We Stand Together"
-			}
-		},
-		{
-			"number": 82,
-			"warmUp": {
-				"artist": "Ricki-Lee",
-				"title": "Raining Diamonds"
-			},
-			"squats": {
-				"artist": "N-Finity",
-				"title": "Someone Like You (Kris McTwain Club Edit)"
-			},
-			"chest": {
-				"artist": "Solitary Phase",
-				"title": "I Like How It Feels"
-			},
-			"back": {
-				"artist": "Jan Wayne",
-				"title": "Bring Me To Life (Hands Up Club Mix)"
-			},
-			"triceps": {
-				"artist": "Secret Appendix",
-				"title": "Bad Case Of Loving You"
-			},
-			"biceps": {
-				"artist": "Nickelback",
-				"title": "Bottoms Up"
-			},
-			"lunges": {
-				"artist": "Sash!",
-				"title": "Ecuador (Bad Behaviour Remix)"
-			},
-			"shoulders": {
-				"artist": "Paffendorf",
-				"title": "Be Cool 2011 (DJ From Mars Club Remix)"
-			},
-			"abs": {
-				"artist": "Calvin Harris",
-				"title": "Feel So Close"
-			}
-		},
-		{
-			"number": 81,
-			"warmUp": {
-				"artist": "Cobra Starship feat. Sabi",
-				"title": "You Make Me Feel…"
-			},
-			"squats": {
-				"artist": "Jagged Eagle",
-				"title": "Higher Ground"
-			},
-			"chest": {
-				"artist": "Stan Walker",
-				"title": "Loud"
-			},
-			"back": {
-				"artist": "Manian",
-				"title": "Ravers Fantasy (Manox Remix)"
-			},
-			"triceps": {
-				"artist": "Miss Daise",
-				"title": "Domino"
-			},
-			"biceps": {
-				"artist": "Shinedown",
-				"title": "I Own You"
-			},
-			"lunges": {
-				"artist": "Fine Tune",
-				"title": "San Francisco (Remix II)"
-			},
-			"shoulders": {
-				"artist": "Blade X",
-				"title": "Blood Is Pumping"
-			},
-			"abs": {
-				"artist": "Alexandra Stan",
-				"title": "Mr Saxobeat"
-			}
-		},
-		{
-			"number": 80,
-			"warmUp": {
-				"artist": "September",
-				"title": "Resuscitate Me"
-			},
-			"squats": {
-				"artist": "Red Beans & Rice",
-				"title": "The Edge Of Glory (Glory Mix)"
-			},
-			"chest": {
-				"artist": "Ninth Immortal",
-				"title": "Smells Like Teen Spirit"
-			},
-			"back": {
-				"artist": "Twilight",
-				"title": "The Tide"
-			},
-			"triceps": {
-				"artist": "Britney Spears",
-				"title": "Till The World Ends"
-			},
-			"biceps": {
-				"artist": "Altiyan Childs",
-				"title": "Eye Of The Tiger"
-			},
-			"lunges": {
-				"artist": "Dan Winter",
-				"title": "Fading Like A Flower (Club Radio Mix)"
-			},
-			"shoulders": {
-				"artist": "Jens O.",
-				"title": "Hands Up! (Sample Ripperz Remix)"
-			},
-			"abs": {
-				"artist": "Colourbox",
-				"title": "Rolling In The Deep"
-			}
+		"abs": {
+			"artist": "The All American Rejects",
+			"title": "Sweat"
 		}
-	]
-}
+	},
+	{
+		"number": 104,
+		"warmUp": {
+			"artist": "Axwell/\\Ingrosso",
+			"title": "More Than You Know"
+		},
+		"squats": {
+			"artist": "Blasterjaxx feat. Jonathan Mendelsohn",
+			"title": "Black Rose"
+		},
+		"chest": {
+			"artist": "Fall Out Boy",
+			"title": "Young And Menace"
+		},
+		"back": {
+			"artist": "Craig David & Sigala",
+			"title": "Ain't Giving Up (WiDE AWAKE Remix)"
+		},
+		"triceps": {
+			"artist": "Little Mix",
+			"title": "Touch"
+		},
+		"biceps": {
+			"artist": "Flosstradamus & Mayhem feat. Wack Flocka Flame",
+			"title": "back Again"
+		},
+		"lunges": {
+			"artist": "Deorro",
+			"title": "Rise And Shine"
+		},
+		"shoulders": {
+			"artist": "Paris Blohm feat. Elle Vee",
+			"title": "Into Dust"
+		},
+		"abs": {
+			"artist": "OneRepublic",
+			"title": "No Vacancy"
+		}
+	},
+	{
+		"number": 103,
+		"warmUp": {
+			"artist": "Martin Solveig feat. Ina Wroldsen",
+			"title": "Places"
+		},
+		"squats": {
+			"artist": "Will K feat. Sean Declase",
+			"title": "Here Comes The Sun (Tom Staar Radio Edit)"
+		},
+		"chest": {
+			"artist": "Imagine Dragons",
+			"title": "Believer"
+		},
+		"back": {
+			"artist": "Armin Van Buuren feat. Olaf Blackwood",
+			"title": "I Need You (Extended Club Mix)"
+		},
+		"triceps": {
+			"artist": "Pharrel Williams",
+			"title": "Come Get It Bae"
+		},
+		"biceps": {
+			"artist": "DJ Snake & Justin Bieber",
+			"title": "Let Me Love You (R3hab Remix)"
+		},
+		"lunges": {
+			"artist": "Steve Aoki & Autoerotique",
+			"title": "ILYSSM"
+		},
+		"shoulders": {
+			"artist": "The Chainsmokers",
+			"title": "Paris (LOUDPVCK Remix)"
+		},
+		"abs": {
+			"artist": "Axwell/\\Ingrosso feat. Kid Ink",
+			"title": "I Love You"
+		}
+	},
+	{
+		"number": 102,
+		"warmUp": {
+			"artist": "Fais & Afrojack",
+			"title": "Used To Have It All"
+		},
+		"squats": {
+			"artist": "Sigma feat. Birdy",
+			"title": "Find Me (Radio Edit)"
+		},
+		"chest": {
+			"artist": "Sigala",
+			"title": "Sweet Lovin'"
+		},
+		"back": {
+			"artist": "Zeds Dead & Diplo feat. Elliphant",
+			"title": "Blame"
+		},
+		"triceps": {
+			"artist": "Something In The Water",
+			"title": "Drum"
+		},
+		"biceps": {
+			"artist": "David Guetta & GLOWINTHEDARK feat. French Montana & Infared",
+			"title": "All The Way Up (Remix) Fat Joe Remy Mar"
+		},
+		"lunges": {
+			"artist": "Borgeous & 7 Skies feat. Neon Hitch",
+			"title": "Lost & Found"
+		},
+		"shoulders": {
+			"artist": "GTA & What So Not feat. Tunji Ige",
+			"title": "Feel It"
+		},
+		"abs": {
+			"artist": "The Weekend feat. Daft Punk",
+			"title": "Starboy"
+		}
+	},
+	{
+		"number": 101,
+		"warmUp": {
+			"artist": "Hardwell feat. Jake Reese",
+			"title": "Run Wild"
+		},
+		"squats": {
+			"artist": "Wolfpack & Avancada",
+			"title": "GO! (Vincent Price Remix)"
+		},
+		"chest": {
+			"artist": "Chase & Status feat. George the Poet",
+			"title": "Spoken Word"
+		},
+		"back": {
+			"artist": "Knife Party",
+			"title": "LRAD"
+		},
+		"triceps": {
+			"artist": "PARRI$",
+			"title": "Friday"
+		},
+		"biceps": {
+			"artist": "Jungle Youth",
+			"title": "Young The Giant"
+		},
+		"lunges": {
+			"artist": "DJ Snake feat. Yellow Claw",
+			"title": "Ocho Cinco"
+		},
+		"shoulders": {
+			"artist": "Flux Pavillion & NGHTMRE feat. Jamie Lewis",
+			"title": "Feel Your Love"
+		},
+		"abs": {
+			"artist": "Closer",
+			"title": "The Chainsmokers feat. Halsey"
+		}
+	},
+	{
+		"number": 100,
+		"warmUp": {
+			"artist": "Calvin Harris feat. Rihanna",
+			"title": "This Is What You Came For"
+		},
+		"squats": {
+			"artist": "Knife Party & Tom Staar",
+			"title": "Kraken"
+		},
+		"chest": {
+			"artist": "Pitbull feat. Robin Thicke",
+			"title": "Bad Man"
+		},
+		"back": {
+			"artist": "Seven Lions feat. Vok",
+			"title": "Creation"
+		},
+		"triceps": {
+			"artist": "Meghan Trainor",
+			"title": "Me Too"
+		},
+		"biceps": {
+			"artist": "Flo Rida",
+			"title": "Who's With Me"
+		},
+		"lunges": {
+			"artist": "Galantis",
+			"title": "No Money"
+		},
+		"shoulders": {
+			"artist": "Chase & Status feat. Novelist",
+			"title": "NRG"
+		},
+		"abs": {
+			"artist": "OneRepublic",
+			"title": "Wherever I Go"
+		}
+	},
+	{
+		"number": 99,
+		"warmUp": {
+			"artist": "Hardwell feat. Jake Reese",
+			"title": "Mad World"
+		},
+		"squats": {
+			"artist": "Knife Party",
+			"title": "Power Glove"
+		},
+		"chest": {
+			"artist": "3 Doors Down",
+			"title": "In the Dark"
+		},
+		"back": {
+			"artist": "Andrew Rayel & Digital",
+			"title": "Winterburn"
+		},
+		"triceps": {
+			"artist": "Ellie Goulding",
+			"title": "Something In The Way You Move"
+		},
+		"biceps": {
+			"artist": "Panic! at the Disco",
+			"title": "Emporer's New Clothes"
+		},
+		"lunges": {
+			"artist": "R3hab & Headhunterz",
+			"title": "Won't Stop Rocking"
+		},
+		"shoulders": {
+			"artist": "Armin Van Buuren",
+			"title": "Old School"
+		},
+		"abs": {
+			"artist": "Rihanna feat. Drake",
+			"title": "Work"
+		}
+	},
+	{
+		"number": 98,
+		"warmUp": {
+			"artist": "Armin van Buuren feat. Cimo Frankel",
+			"title": "Strong Ones"
+		},
+		"squats": {
+			"artist": "Vinai",
+			"title": "Techno"
+		},
+		"chest": {
+			"artist": "Ariana Grande",
+			"title": "Focus"
+		},
+		"back": {
+			"artist": "Andrew Rayel & Mark Sixma",
+			"title": "Chased"
+		},
+		"triceps": {
+			"artist": "Nero",
+			"title": "Two Minds"
+		},
+		"biceps": {
+			"artist": "Panic! At The Disco",
+			"title": "Victorious"
+		},
+		"lunges": {
+			"artist": "KSHMR & Bassjackers feat. Sirah",
+			"title": "Memories"
+		},
+		"shoulders": {
+			"artist": "Nick Skitz",
+			"title": "Redliner (Studio-X Trap Remix)"
+		},
+		"abs": {
+			"artist": "Flo Rida",
+			"title": "My House"
+		}
+	},
+
+	{
+		"number": 97,
+		"warmUp": {
+			"artist": "Ryan Tedder",
+			"title": "Scars"
+		},
+		"squats": {
+			"artist": "Bassjackers & MAKJ",
+			"title": "Derp"
+		},
+		"chest": {
+			"artist": "Godsmack",
+			"title": "Generation Day"
+		},
+		"back": {
+			"artist": "Nero",
+			"title": "Dark Skies"
+		},
+		"triceps": {
+			"artist": "Avicii",
+			"title": "Waiting For Love"
+		},
+		"biceps": {
+			"artist": "Bon Jovi",
+			"title": "We Don't Run"
+		},
+		"lunges": {
+			"artist": "Calvin Harris",
+			"title": "How Deep is Your Love"
+		},
+		"shoulders": {
+			"artist": "Zedd & Botnek",
+			"title": "Bumble Bee"
+		},
+		"abs": {
+			"artist": "Travis Mills feat. T.I.",
+			"title": "Young & Stupid"
+		}
+	},
+
+	{
+		"number": 96,
+		"warmUp": {
+			"artist": "Deorro x Chris Brown",
+			"title": "Five More Hours"
+		},
+		"squats": {
+			"artist": "Tiesto and MOTI",
+			"title": "Blow Your Mind"
+		},
+		"chest": {
+			"artist": "Along Pointless",
+			"title": "Immortals"
+		},
+		"back": {
+			"artist": "Nero",
+			"title": "The Thrill"
+		},
+		"triceps": {
+			"artist": "Panic! At the Disco",
+			"title": "Hallelujah"
+		},
+		"biceps": {
+			"artist": "Flo Rida",
+			"title": "Wobble"
+		},
+		"lunges": {
+			"artist": "Galantis",
+			"title": "Peanut Butter Jelly"
+		},
+		"shoulders": {
+			"artist": "Zedd feat. Bahari",
+			"title": "Addicted to a Memory"
+		},
+		"abs": {
+			"artist": "Jason Derulo",
+			"title": "Want you to want me"
+		}
+	},
+	{
+		"number": 95,
+		"warmUp": {
+			"artist": "Calvin Harris feat. Ellie Goulding",
+			"title": "Outisde"
+		},
+		"squats": {
+			"artist": "Autoerotique & 4B",
+			"title": "Bukem"
+		},
+		"chest": {
+			"artist": "Mark Ronson feat. Bruno Mars",
+			"title": "Uptown Funk"
+		},
+		"back": {
+			"artist": "Blasterjaxx & DBSTF feat. Ryder",
+			"title": "Beautiful World"
+		},
+		"triceps": {
+			"artist": "Fall Out Boy",
+			"title": "Irresistible"
+		},
+		"biceps": {
+			"artist": "Flo Rida feat. Sage The Gemini & Lookas",
+			"title": "GDFR"
+		},
+		"lunges": {
+			"artist": "Calvin Harris & R3Hab",
+			"title": "Burnin"
+		},
+		"shoulders": {
+			"artist": "Three Days Grace",
+			"title": "I Am Machine"
+		},
+		"abs": {
+			"artist": "Maroon 5",
+			"title": "Sugar"
+		}
+	},
+	{
+		"number": 94,
+		"warmUp": {
+			"artist": "Alesso feat. Tove Lo",
+			"title": "Heroes (We Could Be)"
+		},
+		"squats": {
+			"artist": "Vice",
+			"title": "Everybody Go!"
+		},
+		"chest": {
+			"artist": "Jessie J feat. 2 Chainz",
+			"title": "Burnin' Up"
+		},
+		"back": {
+			"artist": "Scooter & Vassy",
+			"title": "Today (Scooter Remix)"
+		},
+		"triceps": {
+			"artist": "Meghan Trainor",
+			"title": "Lips Are Movin"
+		},
+		"biceps": {
+			"artist": "Nickelback",
+			"title": "Get 'Em Up"
+		},
+		"lunges": {
+			"artist": "Dillon Francis feat. Major Lazer & Stylo G",
+			"title": "We Make It Bounce"
+		},
+		"shoulders": {
+			"artist": "Zylent feat. Katatonic",
+			"title": "This Is How It Goes"
+		},
+		"abs": {
+			"artist": "Gwen Stefani",
+			"title": "Baby Don't Lie"
+		}
+	},
+	{
+		"number": 93,
+		"warmUp": {
+			"artist": "Ariana Grande feat. Zedd",
+			"title": "Break Free"
+		},
+		"squats": {
+			"artist": "Showtek feat. We are Loud & Sonny Wilson",
+			"title": "Booyah (Lucky Date Remix)"
+		},
+		"chest": {
+			"artist": "Thirty Seconds to Mars",
+			"title": "Kings and Queens"
+		},
+		"back": {
+			"artist": "Dash Berlin & Jay Cosmic feat. Colin McLoughlin",
+			"title": "Here Tonight (Carita La Nina Radio Edit)"
+		},
+		"triceps": {
+			"artist": "Jessie J, Ariana Grande, & Nicki Minaj",
+			"title": "Bang Bang"
+		},
+		"biceps": {
+			"artist": "Fall Out Boy",
+			"title": "Centuries"
+		},
+		"lunges": {
+			"artist": "Klayplex feat. Virian",
+			"title": "1941"
+		},
+		"shoulders": {
+			"artist": "Fedde le Grand",
+			"title": "Twisted (Eptic Remix)"
+		},
+		"abs": {
+			"artist": "Meghan Trainor",
+			"title": "All About That Base"
+		}
+	},
+	{
+		"number": 92,
+		"warmUp": {
+			"artist": "Ricki-Lee",
+			"title": "All We Need Is Love"
+		},
+		"squats": {
+			"artist": "Autoerotique vs Marc Noir",
+			"title": "GO!"
+		},
+		"chest": {
+			"artist": "Fall Out Boy",
+			"title": "The Pheonix"
+		},
+		"back": {
+			"artist": "BT Fractal & JES",
+			"title": "Letting Go (LTN Radio Edit)"
+		},
+		"triceps": {
+			"artist": "Ariana Grande feat. Iggy Azalea",
+			"title": "Problem"
+		},
+		"biceps": {
+			"artist": "KONGOS",
+			"title": "Come With Me Now"
+		},
+		"lunges": {
+			"artist": "Guiltless Happy",
+			"title": "NRG"
+		},
+		"shoulders": {
+			"artist": "Armin Van Buuren",
+			"title": "Ping Pong (Radio Edit)"
+		},
+		"abs": {
+			"artist": "Iggy Azalea feat. Charli XCX",
+			"title": "Fancy"
+		}
+	},
+	{
+		"number": 91,
+		"warmUp": {
+			"artist": "Wrabel",
+			"title": "Ten Feet Tall"
+		},
+		"squats": {
+			"artist": "The Killers",
+			"title": "Somebody Told Me"
+		},
+		"chest": {
+			"artist": "Ellie Goulding",
+			"title": "Goodness Gracious"
+		},
+		"back": {
+			"artist": "Armin Van Buuren",
+			"title": "Beautiful Life (Remix)"
+		},
+		"triceps": {
+			"artist": "Avicii",
+			"title": "Hey Brother"
+		},
+		"biceps": {
+			"artist": "Five Finger Death Punch",
+			"title": "Bad Company"
+		},
+		"lunges": {
+			"artist": "Zedd",
+			"title": "Find You"
+		},
+		"shoulders": {
+			"artist": "Fatboy Slim",
+			"title": "Eat, Sleep, Rave, Repeat (Remix)"
+		},
+		"abs": {
+			"artist": "Jason Derulo",
+			"title": "Trumpets"
+		}
+	},
+	{
+		"number": 90,
+		"warmUp": {
+			"artist": "Avicii",
+			"title": "You Make Me"
+		},
+		"squats": {
+			"artist": "Rihanna",
+			"title": "What Now"
+		},
+		"chest": {
+			"artist": "Thirty Seconds to Mars",
+			"title": "Conquistador"
+		},
+		"back": {
+			"artist": "Nero",
+			"title": "Promises"
+		},
+		"triceps": {
+			"artist": "P!nk",
+			"title": "Walk of Shame"
+		},
+		"biceps": {
+			"artist": "Panic! at the Disco feat. Loco",
+			"title": "Miss Jackson"
+		},
+		"lunges": {
+			"artist": "Zedd feat. Hayley Williams",
+			"title": "Stay the Night"
+		},
+		"shoulders": {
+			"artist": "Kill The Noise",
+			"title": "Thumbs Up (For Rock N Roll)"
+		},
+		"abs": {
+			"artist": "OneRepublic",
+			"title": "Something I need"
+		}
+	},
+	{
+		"number": 89,
+		"warmUp": {
+			"artist": "Dane Rumble feat. Jupiter Project",
+			"title": "Not Alone"
+		},
+		"squats": {
+			"artist": "R3Hab & Bassjackers",
+			"title": "Raise Those Hands"
+		},
+		"chest": {
+			"artist": "Fall Out Boy",
+			"title": "Where Did the Party Go"
+		},
+		"back": {
+			"artist": "Nero",
+			"title": "Me & You"
+		},
+		"triceps": {
+			"artist": "Lady Gaga",
+			"title": "Applause"
+		},
+		"biceps": {
+			"artist": "The Killers",
+			"title": "When You Were Young"
+		},
+		"lunges": {
+			"artist": "Ellie Goulding",
+			"title": "Burn"
+		},
+		"shoulders": {
+			"artist": "Brooklyn Bounce & DJ Zealot",
+			"title": "True Hardstyler (Silver Nikan Radio Edit)"
+		},
+		"abs": {
+			"artist": "Naughty Boy feat. Sam Smith",
+			"title": "La La La"
+		}
+	},
+	{
+		"number": 88,
+		"warmUp": {
+			"artist": "Jessica Sanchez feat. Ne-Yo",
+			"title": "Tonight"
+		},
+		"squats": {
+			"artist": "Skism feat. DC Breaks & Dee Freer",
+			"title": "Killer (Crush Remix)"
+		},
+		"chest": {
+			"artist": "Fergie, Q-Tip & GoonRock",
+			"title": "A Little Party Never Killed Nobody (All We Got)"
+		},
+		"back": {
+			"artist": "Jens O.",
+			"title": "Somebody (Cc.K Remix)"
+		},
+		"triceps": {
+			"artist": "Macklemore & Ryan Lewis feat. Ray Dalton",
+			"title": "Can't Hold Us"
+		},
+		"biceps": {
+			"artist": "Thirty Seconds to Mars",
+			"title": "Up in the Air"
+		},
+		"lunges": {
+			"artist": "David Guetta feat. Ne-Yo & Akon",
+			"title": "Play Hard"
+		},
+		"shoulders": {
+			"artist": "Brooklyn Bounce & Giorno",
+			"title": "Raving (G! Mix)"
+		},
+		"abs": {
+			"artist": "Ellie Goulding",
+			"title": "Only You"
+		}
+	},
+	{
+		"number": 87,
+		"warmUp": {
+			"artist": "Christina Aguilera",
+			"title": "Let There Be Love"
+		},
+		"squats": {
+			"artist": "Scooter",
+			"title": "Black Betty"
+		},
+		"chest": {
+			"artist": "Pitbull ft. TJR",
+			"title": "Don't Stop The Party"
+		},
+		"back": {
+			"artist": "Nick Skitz & Basslouder ft. Brooklyn Bounce",
+			"title": "Again & Again (Club Mix)"
+		},
+		"triceps": {
+			"artist": "Fall Out Boy",
+			"title": "My Songs Know What You Did In The Dark"
+		},
+		"biceps": {
+			"artist": "Sam And The Womp",
+			"title": "Bom Bom"
+		},
+		"lunges": {
+			"artist": "Calvin Harris feat. Florence Welch",
+			"title": "Sweet Nothing"
+		},
+		"shoulders": {
+			"artist": "Nero",
+			"title": "Crush On You"
+		},
+		"abs": {
+			"artist": "Olly Murs ft. Flo Rida",
+			"title": "Troublemaker"
+		}
+	},
+	{
+		"number": 86,
+		"warmUp": {
+			"artist": "Flo Rida",
+			"title": "I Cry"
+		},
+		"squats": {
+			"artist": "Six60",
+			"title": "In The Clear"
+		},
+		"chest": {
+			"artist": "Christina Aquilera",
+			"title": "Your Body"
+		},
+		"back": {
+			"artist": "DJ Flow",
+			"title": "Campione 2012"
+		},
+		"triceps": {
+			"artist": "Train",
+			"title": "50 Ways To Say Goodbye"
+		},
+		"biceps": {
+			"artist": "Kelly Clarkson",
+			"title": "Dark Side"
+		},
+		"lunges": {
+			"artist": "Swedish House Mafia feat. John Martin",
+			"title": "Don't You Worry Child (Radio Edit)"
+		},
+		"shoulders": {
+			"artist": "Upon Havoc",
+			"title": "We'll Be Coming back"
+		},
+		"abs": {
+			"artist": "Matchbox 20",
+			"title": "She's So Mean"
+		}
+	},
+	{
+		"number": 85,
+		"warmUp": {
+			"artist": "Alexandra Burke",
+			"title": "Heartbreak On Hold"
+		},
+		"squats": {
+			"artist": "Swedish House Mafia vs. Knife Party",
+			"title": "Antidote"
+		},
+		"chest": {
+			"artist": "Muse",
+			"title": "Uprising"
+		},
+		"back": {
+			"artist": "Cascada",
+			"title": "The Rhythm Of The Night (Ryan T. & Rick M. Radio Edit)"
+		},
+		"triceps": {
+			"artist": "Flo Rida",
+			"title": "Let it Roll"
+		},
+		"biceps": {
+			"artist": "P!nk",
+			"title": "Blow Me (One Last Kiss) (Clean Radio Edit)"
+		},
+		"lunges": {
+			"artist": "Loyal Crown",
+			"title": "Spectrum"
+		},
+		"shoulders": {
+			"artist": "Brooklyn Bounce",
+			"title": "This Is How We Rock! (Hardforze H.A.R.D Remix Edit)"
+		},
+		"abs": {
+			"artist": "Eastern Clause",
+			"title": "One More Night"
+		}
+	},
+	{
+		"number": 84,
+		"warmUp": {
+			"artist": "Lock Jaw",
+			"title": "Let's Go"
+		},
+		"squats": {
+			"artist": "Element Depot",
+			"title": "Turning Tables"
+		},
+		"chest": {
+			"artist": "Guiltless United",
+			"title": "Welcome To The Jungle"
+		},
+		"back": {
+			"artist": "Cascada",
+			"title": "Because the Night (Manian Bootleg Cut)"
+		},
+		"triceps": {
+			"artist": "Usher",
+			"title": "Scream"
+		},
+		"biceps": {
+			"artist": "Kayplex",
+			"title": "Crazy"
+		},
+		"lunges": {
+			"artist": "Reality Hero",
+			"title": "Where Have You Been"
+		},
+		"shoulders": {
+			"artist": "Manian",
+			"title": "Welcome To The Club 2011 (Discotronic Radio Edit)"
+		},
+		"abs": {
+			"artist": "Flo Rida",
+			"title": "Whistle"
+		}
+	},
+	{
+		"number": 83,
+		"warmUp": {
+			"artist": "Pimp Dawg",
+			"title": "Set It Off (Wings & Rider Remix Edit)"
+		},
+		"squats": {
+			"artist": "Yesterday Affair",
+			"title": "Summer Of '69"
+		},
+		"chest": {
+			"artist": "Chris Brown",
+			"title": "Turn Up The Music"
+		},
+		"back": {
+			"artist": "Fizzy Deejay",
+			"title": "Set Fire To The Rain (B&W Remix)"
+		},
+		"triceps": {
+			"artist": "Toy Hypo",
+			"title": "Glad You Came"
+		},
+		"biceps": {
+			"artist": "Kelly Clarkson",
+			"title": "Stronger (What Doesn't Kill You)"
+		},
+		"lunges": {
+			"artist": "Manian & Aila",
+			"title": "Turn The Tide (Manox Remix)"
+		},
+		"shoulders": {
+			"artist": "Scooter feat. Vicky Leandros",
+			"title": "C'est Bleu"
+		},
+		"abs": {
+			"artist": "Nickelback",
+			"title": "When We Stand Together"
+		}
+	},
+	{
+		"number": 82,
+		"warmUp": {
+			"artist": "Ricki-Lee",
+			"title": "Raining Diamonds"
+		},
+		"squats": {
+			"artist": "N-Finity",
+			"title": "Someone Like You (Kris McTwain Club Edit)"
+		},
+		"chest": {
+			"artist": "Solitary Phase",
+			"title": "I Like How It Feels"
+		},
+		"back": {
+			"artist": "Jan Wayne",
+			"title": "Bring Me To Life (Hands Up Club Mix)"
+		},
+		"triceps": {
+			"artist": "Secret Appendix",
+			"title": "Bad Case Of Loving You"
+		},
+		"biceps": {
+			"artist": "Nickelback",
+			"title": "Bottoms Up"
+		},
+		"lunges": {
+			"artist": "Sash!",
+			"title": "Ecuador (Bad Behaviour Remix)"
+		},
+		"shoulders": {
+			"artist": "Paffendorf",
+			"title": "Be Cool 2011 (DJ From Mars Club Remix)"
+		},
+		"abs": {
+			"artist": "Calvin Harris",
+			"title": "Feel So Close"
+		}
+	},
+	{
+		"number": 81,
+		"warmUp": {
+			"artist": "Cobra Starship feat. Sabi",
+			"title": "You Make Me Feel…"
+		},
+		"squats": {
+			"artist": "Jagged Eagle",
+			"title": "Higher Ground"
+		},
+		"chest": {
+			"artist": "Stan Walker",
+			"title": "Loud"
+		},
+		"back": {
+			"artist": "Manian",
+			"title": "Ravers Fantasy (Manox Remix)"
+		},
+		"triceps": {
+			"artist": "Miss Daise",
+			"title": "Domino"
+		},
+		"biceps": {
+			"artist": "Shinedown",
+			"title": "I Own You"
+		},
+		"lunges": {
+			"artist": "Fine Tune",
+			"title": "San Francisco (Remix II)"
+		},
+		"shoulders": {
+			"artist": "Blade X",
+			"title": "Blood Is Pumping"
+		},
+		"abs": {
+			"artist": "Alexandra Stan",
+			"title": "Mr Saxobeat"
+		}
+	},
+	{
+		"number": 80,
+		"warmUp": {
+			"artist": "September",
+			"title": "Resuscitate Me"
+		},
+		"squats": {
+			"artist": "Red Beans & Rice",
+			"title": "The Edge Of Glory (Glory Mix)"
+		},
+		"chest": {
+			"artist": "Ninth Immortal",
+			"title": "Smells Like Teen Spirit"
+		},
+		"back": {
+			"artist": "Twilight",
+			"title": "The Tide"
+		},
+		"triceps": {
+			"artist": "Britney Spears",
+			"title": "Till The World Ends"
+		},
+		"biceps": {
+			"artist": "Altiyan Childs",
+			"title": "Eye Of The Tiger"
+		},
+		"lunges": {
+			"artist": "Dan Winter",
+			"title": "Fading Like A Flower (Club Radio Mix)"
+		},
+		"shoulders": {
+			"artist": "Jens O.",
+			"title": "Hands Up! (Sample Ripperz Remix)"
+		},
+		"abs": {
+			"artist": "Colourbox",
+			"title": "Rolling In The Deep"
+		}
+	}
+]
