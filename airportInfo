@@ -1,0 +1,1010 @@
+{
+	"CityList": {
+		"CityAirport": [{
+				"AirportCode": "AAL",
+				"CountryCode": "DK",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Aalborg Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport d'Aalborg"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Aalborg"
+					},
+					{
+						"locale": "fr",
+						"text": "Aalborg"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "Denmark"
+					},
+					{
+						"locale": "fr",
+						"text": "Danemark"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Aalborg"
+					},
+					{
+						"locale": "fr",
+						"text": "Aalborg"
+					}
+				],
+				"ShortNameSmsFrench": "Aalborg",
+				"TimeZone": "Europe/Copenhagen",
+				"Latitude": "57.092778",
+				"Longitude": "9.849167",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "AAR",
+				"CountryCode": "DK",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Aarhus Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport d'Aarhus"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Aarhus"
+					},
+					{
+						"locale": "fr",
+						"text": "Aarhus"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "Denmark"
+					},
+					{
+						"locale": "fr",
+						"text": "Danemark"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Aarhus"
+					},
+					{
+						"locale": "fr",
+						"text": "Aarhus"
+					}
+				],
+				"ShortNameSmsFrench": "Aarhus",
+				"TimeZone": "Europe/Copenhagen",
+				"Latitude": "56.304167",
+				"Longitude": "10.619167",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ABE",
+				"CountryCode": "US",
+				"ProvinceCode": "PA",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Lehigh Valley Intl Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport int. de Lehigh Valley"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Allentown"
+					},
+					{
+						"locale": "fr",
+						"text": "Allentown"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "United States"
+					},
+					{
+						"locale": "fr",
+						"text": "États-Unis"
+					}
+				],
+				"ProvinceName": [{
+						"locale": "en",
+						"text": "Pennsylvania"
+					},
+					{
+						"locale": "fr",
+						"text": "Pennsylvanie"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Lehigh Valley"
+					},
+					{
+						"locale": "fr",
+						"text": "Lehigh Valley"
+					}
+				],
+				"ShortNameSmsFrench": "Lehigh Valley",
+				"TimeZone": "America/New_York",
+				"Latitude": "40.652333",
+				"Longitude": "-75.440472",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ABJ",
+				"CountryCode": "CI",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Félix-Houphouet-Boigny Intl Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport int. Félix-Houphouët-Boigny"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Abidjan"
+					},
+					{
+						"locale": "fr",
+						"text": "Abidjan"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "Ivory Coast"
+					},
+					{
+						"locale": "fr",
+						"text": "Cote d'Ivoire"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Abidjan"
+					},
+					{
+						"locale": "fr",
+						"text": "Abidjan"
+					}
+				],
+				"ShortNameSmsFrench": "Abidjan",
+				"TimeZone": "Africa/Abidjan",
+				"Latitude": "5.261417",
+				"Longitude": "-3.925778",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ABQ",
+				"CountryCode": "US",
+				"ProvinceCode": "NM",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Albuquerque Intl Sunport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport int. d'Albuquerque"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Albuquerque"
+					},
+					{
+						"locale": "fr",
+						"text": "Albuquerque"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "United States"
+					},
+					{
+						"locale": "fr",
+						"text": "États-Unis"
+					}
+				],
+				"ProvinceName": [{
+						"locale": "en",
+						"text": "New Mexico"
+					},
+					{
+						"locale": "fr",
+						"text": "Nouveau-Mexique"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Albuquerque"
+					},
+					{
+						"locale": "fr",
+						"text": "Albuquerque"
+					}
+				],
+				"ShortNameSmsFrench": "Albuquerque",
+				"TimeZone": "America/Denver",
+				"Latitude": "35.039333",
+				"Longitude": "-106.610778",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ABV",
+				"CountryCode": "NG",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Nnamdi Azikiwe Intl Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport int. Nnamdi Azikiwe"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Abuja"
+					},
+					{
+						"locale": "fr",
+						"text": "Abuja"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "Nigeria"
+					},
+					{
+						"locale": "fr",
+						"text": "Nigéria"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Nnamdi Azikiwe"
+					},
+					{
+						"locale": "fr",
+						"text": "Nnamdi Azikiwe"
+					}
+				],
+				"ShortNameSmsFrench": "Nnamdi Azikiwe",
+				"TimeZone": "Africa/Lagos",
+				"Latitude": "9.006792",
+				"Longitude": "7.263172",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ABX",
+				"CountryCode": "AU",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Albury Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport d'Albury"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Albury"
+					},
+					{
+						"locale": "fr",
+						"text": "Albury"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "Australia"
+					},
+					{
+						"locale": "fr",
+						"text": "Australie"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Albury"
+					},
+					{
+						"locale": "fr",
+						"text": "Albury"
+					}
+				],
+				"ShortNameSmsFrench": "Albury",
+				"TimeZone": "Australia/Sydney",
+				"Latitude": "-36.068333",
+				"Longitude": "146.958333",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ABZ",
+				"CountryCode": "UK",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Aberdeen Intl Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport int. d'Aberdeen"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Aberdeen"
+					},
+					{
+						"locale": "fr",
+						"text": "Aberdeen"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "United Kingdom"
+					},
+					{
+						"locale": "fr",
+						"text": "Royaume Uni"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Aberdeen"
+					},
+					{
+						"locale": "fr",
+						"text": "Aberdeen"
+					}
+				],
+				"ShortNameSmsFrench": "Aberdeen",
+				"TimeZone": "Europe/London",
+				"Latitude": "57.2025",
+				"Longitude": "-2.198056",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ACA",
+				"CountryCode": "MX",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Acapulco Intl Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport int. d'Acapulco"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Acapulco"
+					},
+					{
+						"locale": "fr",
+						"text": "Acapulco"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "Mexico"
+					},
+					{
+						"locale": "fr",
+						"text": "Mexique"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Acapulco"
+					},
+					{
+						"locale": "fr",
+						"text": "Acapulco"
+					}
+				],
+				"ShortNameSmsFrench": "Acapulco",
+				"TimeZone": "America/Mexico_City",
+				"Latitude": "16.756028",
+				"Longitude": "-99.751611",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ACC",
+				"CountryCode": "GH",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Kotoka Intl Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport int. Kotoka"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Accra"
+					},
+					{
+						"locale": "fr",
+						"text": "Accra"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "Ghana"
+					},
+					{
+						"locale": "fr",
+						"text": "Ghana"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Kotoka"
+					},
+					{
+						"locale": "fr",
+						"text": "Kotoka"
+					}
+				],
+				"ShortNameSmsFrench": "Kotoka",
+				"TimeZone": "Africa/Accra",
+				"Latitude": "5.604667",
+				"Longitude": "-0.167389",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ACE",
+				"CountryCode": "ES",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Lanzarote Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport Lanzarote"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Arrecife"
+					},
+					{
+						"locale": "fr",
+						"text": "Arrecife"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "Spain"
+					},
+					{
+						"locale": "fr",
+						"text": "Espagne"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Lanzarote"
+					},
+					{
+						"locale": "fr",
+						"text": "Lanzarote"
+					}
+				],
+				"ShortNameSmsFrench": "Lanzarote",
+				"TimeZone": "Atlantic/Canary",
+				"Latitude": "28.945556",
+				"Longitude": "-13.605278",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ACT",
+				"CountryCode": "US",
+				"ProvinceCode": "TX",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Waco Regional Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport régional de Waco"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Waco"
+					},
+					{
+						"locale": "fr",
+						"text": "Waco"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "United States"
+					},
+					{
+						"locale": "fr",
+						"text": "États-Unis"
+					}
+				],
+				"ProvinceName": [{
+						"locale": "en",
+						"text": "Texas"
+					},
+					{
+						"locale": "fr",
+						"text": "Texas"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Waco"
+					},
+					{
+						"locale": "fr",
+						"text": "Waco"
+					}
+				],
+				"ShortNameSmsFrench": "Waco",
+				"TimeZone": "America/Chicago",
+				"Latitude": "31.611389",
+				"Longitude": "-97.230556",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ACV",
+				"CountryCode": "US",
+				"ProvinceCode": "CA",
+				"AirportName": [{
+						"locale": "en",
+						"text": "California Redwood Coast-Humboldt County Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport de Californie Redwood Coast-Comté Humboldt"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Arcata-Eureka"
+					},
+					{
+						"locale": "fr",
+						"text": "Arcata-Eureka"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "United States"
+					},
+					{
+						"locale": "fr",
+						"text": "États-Unis"
+					}
+				],
+				"ProvinceName": [{
+						"locale": "en",
+						"text": "California"
+					},
+					{
+						"locale": "fr",
+						"text": "Californie"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Arcata-Eureka"
+					},
+					{
+						"locale": "fr",
+						"text": "Arcata-Eureka"
+					}
+				],
+				"ShortNameSmsFrench": "Arcata-Eureka",
+				"TimeZone": "America/Los_Angeles",
+				"Latitude": null,
+				"Longitude": null,
+				"MobileBkgEligible": "false"
+			},
+			{
+				"AirportCode": "ACY",
+				"CountryCode": "US",
+				"ProvinceCode": "NJ",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Atlantic City Intl Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport int. d'Atlantic City"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Atlantic City"
+					},
+					{
+						"locale": "fr",
+						"text": "Atlantic City"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "United States"
+					},
+					{
+						"locale": "fr",
+						"text": "États-Unis"
+					}
+				],
+				"ProvinceName": [{
+						"locale": "en",
+						"text": "New Jersey"
+					},
+					{
+						"locale": "fr",
+						"text": "New Jersey"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Atlantic City"
+					},
+					{
+						"locale": "fr",
+						"text": "Atlantic City"
+					}
+				],
+				"ShortNameSmsFrench": "Atlantic City",
+				"TimeZone": "America/New_York",
+				"Latitude": "39.4575",
+				"Longitude": "-74.577222",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ADA",
+				"CountryCode": "TR",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Adana Intl Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport int. d'Adana"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Adana"
+					},
+					{
+						"locale": "fr",
+						"text": "Adana"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "Turkey"
+					},
+					{
+						"locale": "fr",
+						"text": "Turquie"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Adana"
+					},
+					{
+						"locale": "fr",
+						"text": "Adana"
+					}
+				],
+				"ShortNameSmsFrench": "Adana",
+				"TimeZone": "Asia/Istanbul",
+				"Latitude": "36.981944",
+				"Longitude": "35.280278",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ADB",
+				"CountryCode": "TR",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Izmir Adnan Menderes Intl Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport int. d'Izmir Adnan Menderes"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Izmir"
+					},
+					{
+						"locale": "fr",
+						"text": "Izmir"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "Turkey"
+					},
+					{
+						"locale": "fr",
+						"text": "Turquie"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Izmir"
+					},
+					{
+						"locale": "fr",
+						"text": "Izmir"
+					}
+				],
+				"ShortNameSmsFrench": "Izmir",
+				"TimeZone": "Europe/Istanbul",
+				"Latitude": "38.4225",
+				"Longitude": "27.155",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ADD",
+				"CountryCode": "ET",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Addis Ababa Bole Intl Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport int. d'Addis Ababa Bole"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Addis Ababa"
+					},
+					{
+						"locale": "fr",
+						"text": "Addis Ababa"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "Ethiopia"
+					},
+					{
+						"locale": "fr",
+						"text": "Éthiopie"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Addis Ababa"
+					},
+					{
+						"locale": "fr",
+						"text": "Addis Ababa"
+					}
+				],
+				"ShortNameSmsFrench": "Addis Ababa",
+				"TimeZone": "Africa/Addis_Ababa",
+				"Latitude": "8.977778",
+				"Longitude": "38.799444",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ADF",
+				"CountryCode": "TR",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Adiyaman Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport d'Adiyaman"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Adiyaman"
+					},
+					{
+						"locale": "fr",
+						"text": "Adiyaman"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "Turkey"
+					},
+					{
+						"locale": "fr",
+						"text": "Turquie"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Adiyaman"
+					},
+					{
+						"locale": "fr",
+						"text": "Adiyaman"
+					}
+				],
+				"ShortNameSmsFrench": "Adiyama",
+				"TimeZone": "Asia/Istanbul",
+				"Latitude": "37.731667",
+				"Longitude": "38.468889",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "ADL",
+				"CountryCode": "AU",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Adelaide Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport d'Adelaide"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Adelaide"
+					},
+					{
+						"locale": "fr",
+						"text": "Adelaide"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "Australia"
+					},
+					{
+						"locale": "fr",
+						"text": "Australie"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Adelaide"
+					},
+					{
+						"locale": "fr",
+						"text": "Adelaide"
+					}
+				],
+				"ShortNameSmsFrench": "Adelaide",
+				"TimeZone": "Australia/Adelaide",
+				"Latitude": "-34.945",
+				"Longitude": "138.530556",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "AES",
+				"CountryCode": "NO",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Alesund Intl Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport int. d'Alesund"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Alesund"
+					},
+					{
+						"locale": "fr",
+						"text": "Alesund"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "Norway"
+					},
+					{
+						"locale": "fr",
+						"text": "Norvège"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Alesund"
+					},
+					{
+						"locale": "fr",
+						"text": "Alesund"
+					}
+				],
+				"ShortNameSmsFrench": "Alesund",
+				"TimeZone": "Europe/Oslo",
+				"Latitude": "62.5625",
+				"Longitude": "6.119722",
+				"MobileBkgEligible": "true"
+			},
+			{
+				"AirportCode": "AEX",
+				"CountryCode": "US",
+				"ProvinceCode": "LA",
+				"AirportName": [{
+						"locale": "en",
+						"text": "Alexandria Intl Airport"
+					},
+					{
+						"locale": "fr",
+						"text": "Aéroport int. d'Alexandria"
+					}
+				],
+				"CityName": [{
+						"locale": "en",
+						"text": "Alexandria"
+					},
+					{
+						"locale": "fr",
+						"text": "Alexandria"
+					}
+				],
+				"CountryName": [{
+						"locale": "en",
+						"text": "United States"
+					},
+					{
+						"locale": "fr",
+						"text": "États-Unis"
+					}
+				],
+				"ProvinceName": [{
+						"locale": "en",
+						"text": "Louisiana"
+					},
+					{
+						"locale": "fr",
+						"text": "Louisiane"
+					}
+				],
+				"ShortName": [{
+						"locale": "en",
+						"text": "Alexandria"
+					},
+					{
+						"locale": "fr",
+						"text": "Alexandria"
+					}
+				],
+				"ShortNameSmsFrench": "Alexandria",
+				"TimeZone": "America/Chicago",
+				"Latitude": "31.3274",
+				"Longitude": "-92.549833",
+				"MobileBkgEligible": "true"
+			}
+		]
+	}
+}
