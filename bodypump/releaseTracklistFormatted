@@ -1013,5 +1013,44 @@
 			"artist": "Colourbox",
 			"title": "Rolling In The Deep"
 		}
+	},
+	{
+		"number": 79,
+		"warmUp": {
+			"artist": "Logan S. feat. Mandy Brewer",
+			"title": "Higher"
+		},
+		"squats": {
+			"artist": "Mekon Garden",
+			"title": "Closer To The Edge"
+		},
+		"chest": {
+			"artist": "Sean Kingston",
+			"title": "Party All Night (Sleep All Day)"
+		},
+		"back": {
+			"artist": "Jason Born",
+			"title": "Written In The Stars (Sunny Dee Remix)"
+		},
+		"triceps": {
+			"artist": "Southern Light",
+			"title": "Born This Way"
+		},
+		"biceps": {
+			"artist": "Altiyan Childs",
+			"title": "Livin’ On A Prayer"
+		},
+		"lunges": {
+			"artist": "Jason Born",
+			"title": "Grenade (Damn-R Mix)"
+		},
+		"shoulders": {
+			"artist": "Scooter",
+			"title": "J’Adore Hardcore (Extended Mix)"
+		},
+		"abs": {
+			"artist": "Travie McCoy",
+			"title": " We’ll Be Alright"
+		}
 	}
 ]
